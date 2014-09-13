@@ -1,0 +1,598 @@
+NLC,Origin TLC,Station Name,Location for map,Government Office Region (GOR),County or Unitary Authority,District or Unitary Authority,NUTS2 Spatial_Unit Code,NUTS2 Spatial Unit,Station Facility Owner,Total usage,Percentage change,Interchanges
+3801,ACY,Abercynon,CF45 4SE,Wales - Cymru,Rhondda Cynon Taff - Rhondda Cynon Taf,Rhondda Cynon Taff - Rhondda Cynon Taf,UKL1,West Wales and the Valleys,Arriva Trains Wales,240070,12,35304
+4435,AVY,Aberdovey,LL35 0NR,Wales - Cymru,Gwynedd - Gwynedd,Gwynedd - Gwynedd,UKL1,West Wales and the Valleys,Arriva Trains Wales,36696,14,0
+2448,AGL,Abergele & Pensarn,LL22 7PR,Wales - Cymru,Conwy - Conwy,Conwy - Conwy,UKL1,West Wales and the Valleys,Arriva Trains Wales,84488,10,0
+2552,ACR,Accrington,BB5 1QQ,North West,Lancashire,Hyndburn,UKD4,Lancashire,Northern Rail,345648,10,0
+2287,ACB,Acton Bridge,CW8 2RE,North West,Cheshire,Vale Royal,UKD2,Cheshire,London Midland Trains,20044,16,0
+1404,ACC,Acton Central,W3 0BH,London,Greater London,Ealing,UKI2,Outer London,London Overground,1818014,36,0
+1036,ADD,Adderley Park,B9 4TG,West Midlands,West Midlands,Birmingham,UKG3,West Midlands,London Midland Trains,53042,71,0
+5160,ADM,Adisham,CT3 3JE,South East,Kent,Canterbury,UKJ4,Kent,Southeastern,32048,-13,0
+4614,ALB,Albrighton,WV7 3DS,West Midlands,Shropshire,Bridgnorth,UKG2,Shropshire and Staffordshire,London Midland Trains,104806,32,0
+5280,AGT,Aldrington,BN3 5AE,South East,Brighton And Hove,Brighton And Hove,UKJ2,Surrey East & West Sussex,Southern,190956,13,0
+9905,AXP,Alexandra Parade,G31 3JN,Scotland,Glasgow City,Glasgow City,UKM3,South Western Scotland,First ScotRail,182224,16,0
+8605,ASS,Alness,IV17 0SE,Scotland,Highland,Highland,UKM4,Highlands and Islands,First ScotRail,25496,43,0
+7787,ALM,Alnmouth,NE66 2ST,North East,Northumberland,Alnwick,UKC2,Northumberland and Tyne and Wear,Northern Rail,255936,19,1528
+1223,ASG,Alsager,ST7 2XW,North West,Cheshire,Congleton,UKD2,Cheshire,East Midlands Trains,85412,15,0
+1198,ALV,Alvechurch,B48 7SE,West Midlands,Worcestershire,Bromsgrove,UKG1,Herefordshire Worcestershire and Warwickshire,London Midland Trains,161196,17,0
+5250,AMY,Amberley,BN18 9LR,South East,West Sussex,Horsham,UKJ2,Surrey East & West Sussex,Southern,61078,25,0
+9965,AND,Anderston,G3 8RR,Scotland,Glasgow City,Glasgow City,UKM3,South Western Scotland,First ScotRail,647180,12,0
+5397,ANY,Anerley,SE20 8AG ,London,Greater London,Bromley,UKI2,Outer London,Southern,628650,24,0
+9961,AGS,Argyle Street,G2 8DL,Scotland,Glasgow City,Glasgow City,UKM3,South Western Scotland,First ScotRail,1196472,53,0
+6171,ARL,Arlesey,SG15 6XA,East,Bedfordshire,Mid Bedfordshire,UKH2,Bedfordshire and Hertforshire,First Capital Connect,503446,13,0
+990,ARM,Armadale,EH48 3LP,Scotland,West Lothian,West Lothian,UKM2,Eastern Scotland,First ScotRail,126086,1029,0
+1963,ARN,Arnside,LA5 0HQ,North West,Cumbria,South Lakeland,UKD1,Cumbria,First TransPennine Express,102432,-12,0
+2941,ABY,Ashburys,M12 5BY,North West,Greater Manchester,Manchester,UKD3,Greater Manchester,Northern Rail,86062,20,0
+9953,ASF,Ashfield,G22 6LR,Scotland,Glasgow City,Glasgow City,UKM3,South Western Scotland,First ScotRail,69676,27,0
+2790,AHN,Ashton-Under-Lyne,OL7 5LP,North West,Greater Manchester,Tameside,UKD3,Greater Manchester,Northern Rail,581360,12,0
+6083,AWM,Ashwell & Morden,SG7 5RT,East,Cambridgeshire,South Cambridgeshire,UKH1,East Anglia,First Capital Connect,130196,13,0
+1004,AST,Aston,B6 7PR,West Midlands,West Midlands,Birmingham,UKG3,West Midlands,London Midland Trains,444884,32,48232
+1074,ATH,Atherstone,CV9 1BH,West Midlands,Warwickshire,North Warwickshire,UKG1,Herefordshire Worcestershire and Warwickshire,London Midland Trains,77558,19,0
+1624,ATB,Attenborough,NG9 6AL,East Midlands,Nottinghamshire,Broxtowe,UKF1,Derbyshire and Nottinghamshire,East Midlands Trains,79794,21,0
+9457,AUK,Auchinleck,KA18 2BH,Scotland,East Ayrshire,East Ayrshire,UKM3,South Western Scotland,First ScotRail,55668,15,0
+2215,AUG,Aughton Park,L39 5BT,North West,Lancashire,West Lancashire,UKD4,Lancashire,Merseyrail,78504,-18,0
+5714,AXM,Axminster,EX13 5PF,South West,Devon,East Devon,UKK4,Devon,South West Trains,280542,11,0
+1090,AVP,Aylesbury Vale Parkway,HP18 0PS ,South East,Buckinghamshire,Aylesbury Vale,UKJ1,Berkshire Buckinghamshire and Oxfordshire,Chiltern Railways,72760,30,0
+4186,BAJ,Baglan,SA12 8ES,Wales - Cymru,Neath Port Talbot - Castell-Nedd Port Talbot,Neath Port Talbot - Castell-Nedd Port Talbot,UKL1,West Wales and the Valleys,Arriva Trains Wales,19638,11,0
+9763,BIO,Baillieston,G69 7RN,Scotland,Glasgow City,Glasgow City,UKM3,South Western Scotland,First ScotRail,109152,12,0
+5348,BAD,Banstead,SM7 1PZ,South East,Surrey,Reigate And Banstead,UKJ2,Surrey East & West Sussex,Southern,128148,11,0
+9764,BGI,Bargeddie,G69 7TS,Scotland,North Lanarkshire,North Lanarkshire,UKM3,South Western Scotland,First ScotRail,99406,11,0
+7492,BKG,Barking,IG11 8TU,London,Greater London,Barking And Dagenham,UKI2,Outer London,c2c,7427422,14,406574
+6406,BTB,Barnetby,DN38 6DG,Yorkshire And The Humber,North Lincolnshire,North Lincolnshire,UKE1,East Riding and North Linconshire,First TransPennine Express,68642,12,3100
+1096,BTG,Barnt Green,B45 8PA,West Midlands,Worcestershire,Bromsgrove,UKG1,Herefordshire Worcestershire and Warwickshire,London Midland Trains,255972,11,31961
+3806,BYD,Barry Docks,CF63 4LE,Wales - Cymru,The Vale Of Glamorgan - Bro Morgannwg,The Vale Of Glamorgan - Bro Morgannwg,UKL2,East Wales,Arriva Trains Wales,176356,19,0
+9311,BHG,Bathgate,EH48 1AZ,Scotland,West Lothian,West Lothian,UKM2,Eastern Scotland,First ScotRail,871012,24,0
+5215,BAT,Battle,TN33 0DE,South East,East Sussex,Rother,UKJ2,Surrey East & West Sussex,Southeastern,431400,-17,0
+6870,BLB,Battlesbridge,SS11 7RG,East,Essex,Chelmsford,UKH3,Essex,National Express East Anglia,11844,10,0
+1510,BSJ,Bedford St.Johns,MK42 9BT,East,Bedfordshire,Bedford,UKH2,Bedfordshire and Hertforshire,London Midland Trains,10124,-17,0
+5538,BDH,Bedhampton,PO9 1LL,South East,Hampshire,Havant,UKJ3,Hampshire and Isle of Wight,South West Trains,249226,115,0
+1165,BEH,Bedworth,CV12 8JG,West Midlands,Warwickshire,Nuneaton And Bedworth,UKG1,Herefordshire Worcestershire and Warwickshire,London Midland Trains,61130,15,0
+3070,BDW,Bedwyn,SN8 5RD,South West,Wiltshire,Kennet,UKK1,Gloucestershire Wiltshire and North Somerset,First Great Western,106872,13,0
+1625,BEE,Beeston,NG9 1JU,East Midlands,Nottinghamshire,Broxtowe,UKF1,Derbyshire and Nottinghamshire,East Midlands Trains,540068,12,72564
+2785,BLV,Belle Vue,M18 1AA,North West,Greater Manchester,Manchester,UKD3,Greater Manchester,Northern Rail,19970,36,0
+9895,BLG,Bellgrove,G31 1SG,Scotland,Glasgow City,Glasgow City,UKM3,South Western Scotland,First ScotRail,504338,15,21512
+5227,BEG,Beltring,TN12 6QH,South East,Kent,Maidstone,UKJ4,Kent,Southeastern,12766,-12,0
+7439,BEF,Benfleet,SS7 1NF,East,Essex,Castle Point,UKH3,Essex,c2c,3547130,23,0
+2676,BEN,Bentham,LH2 7LJ,Yorkshire And The Humber,North Yorkshire,Craven,UKE2,North Yorkshire,Northern Rail,25016,24,0
+1045,BKW,Berkswell,CV7 7EF,West Midlands,West Midlands,Solihull,UKG3,West Midlands,London Midland Trains,235264,25,0
+8431,BBW,Berry Brow,HD4 7LP,Yorkshire And The Humber,West Yorkshire,Kirklees,UKE4,West Yorkshire,Northern Rail,27386,-12,0
+1003,BSC,Bescot Stadium,WS1 4NH,West Midlands,West Midlands,Sandwell,UKG3,West Midlands,London Midland Trains,132310,51,0
+5472,BTO,Betchworth,RH3 2AD,South East,Surrey,Mole Valley,UKJ2,Surrey East & West Sussex,First Great Western,19878,20,0
+2449,BYC,Betws-y-Coed,LL24 0AE,Wales - Cymru,Conwy - Conwy,Conwy - Conwy,UKL1,West Wales and the Valleys,Arriva Trains Wales,38356,18,0
+5211,BEX,Bexhill,TN40 1EB,South East,East Sussex,Hastings,UKJ2,Surrey East & West Sussex,Southern,1648310,15,0
+3048,BCS,Bicester North,OX26 6EF,South East,Oxfordshire,Cherwell,UKJ1,Berkshire Buckinghamshire and Oxfordshire,Chiltern Railways,1355720,10,0
+3104,BIT,Bicester Town,OX26 6HU,South East,Oxfordshire,Cherwell,UKJ1,Berkshire Buckinghamshire and Oxfordshire,First Great Western,213070,35,0
+4618,BBK,Bilbrook,WV8 1LE,West Midlands,Staffordshire,South Staffordshire,UKG2,Shropshire and Staffordshire,London Midland Trains,128572,28,0
+3907,BCG,Birchgrove,CF14 4SY,Wales - Cymru,Cardiff - Caerdydd,Cardiff - Caerdydd,UKL2,East Wales,Arriva Trains Wales,21428,14,0
+5401,BIK,Birkbeck,BR3 4TA,London,Greater London,Bromley,UKI2,Outer London,Southern,68396,44,0
+4513,BBS,Birmingham Bordesley,B9 4HF,West Midlands,West Midlands,Birmingham,UKG3,West Midlands,London Midland Trains,14134,93,0
+4515,BMO,Birmingham Moor Street,B4 7UL,West Midlands,West Midlands,Birmingham,UKG3,West Midlands,Chiltern Railways,6385572,34,632720
+1127,BHM,Birmingham New Street,B2 4ND,West Midlands,West Midlands,Birmingham,UKG3,West Midlands,Network Rail,31213842,26,5117520
+1006,BSW,Birmingham Snow Hill,B3 2BJ,West Midlands,West Midlands,Birmingham,UKG3,West Midlands,London Midland Trains,4997360,12,182369
+5402,BIP,Bishopstone,BN25 2RB,South East,East Sussex,Lewes,UKJ2,Surrey East & West Sussex,Southern,34556,14,0
+7400,BHO,Blackhorse Road,E17 6NH,London,Greater London,Waltham Forest,UKI2,Outer London,London Underground,669050,50,0
+2738,BPB,Blackpool Pleasure Beach,FY4 1NY,North West,Blackpool,Blackpool,UKD4,Lancashire,Northern Rail,94960,16,0
+2740,BPS,Blackpool South,FY4 2FA,North West,Blackpool,Blackpool,UKD4,Lancashire,Northern Rail,144364,10,0
+991,BKR,Blackridge,EH48 3BW ,Scotland,West Lothian,West Lothian,UKM2,Eastern Scotland,First ScotRail,43258,249,0
+2450,BFF,Blaenau Ffestiniog,LL41 3HE,Wales - Cymru,Gwynedd - Gwynedd,Gwynedd - Gwynedd,UKL1,West Wales and the Valleys,Arriva Trains Wales,47802,12,0
+9668,BGS,Bogston,PA15 2TF,Scotland,Inverclyde,Inverclyde,UKM3,South Western Scotland,First ScotRail,62992,145,0
+1993,BOC,Bootle (Cumbria),LA19 5TA,North West,Cumbria,Copeland,UKD1,Cumbria,Northern Rail,12792,-14,0
+1112,BRV,Bournville,B30 1LG,West Midlands,West Midlands,Birmingham,UKG3,West Midlands,London Midland Trains,982736,25,0
+6027,BOP,Bowes Park,N22 4NT,London,Greater London,Haringey,UKI1,Inner London,First Capital Connect,814562,12,0
+5403,BXW,Boxhill & Westhumble,RH5 6BT,South East,Surrey,Mole Valley,UKJ2,Surrey East & West Sussex,Southern,81122,29,0
+2053,BTP,Braintree Freeport,CM77 8YH,East,Essex,Braintree,UKH3,Essex,National Express East Anglia,55772,-14,0
+7565,BMP,Brampton (Cumbria),CA8 1HW,North West,Cumbria,Carlisle,UKD1,Cumbria,Northern Rail,11896,24,0
+9789,BDG,Bridgeton,G40 1BN,Scotland,Glasgow City,Glasgow City,UKM3,South Western Scotland,First ScotRail,489332,20,0
+2554,BRF,Brierfield,BB9 5PU,North West,Lancashire,Pendle,UKD4,Lancashire,Northern Rail,28386,13,0
+8514,BGH,Brighouse,HD6 1LE,Yorkshire And The Humber,West Yorkshire,Calderdale,UKE4,West Yorkshire,Northern Rail,267010,20,0
+5268,BTN,Brighton,BN1 3XP,South East,Brighton And Hove,Brighton And Hove,UKJ2,Surrey East & West Sussex,Southern,16051198,11,1858787
+5886,BCU,Brockenhurst,SO42 7TW,South East,Hampshire,New Forest,UKJ3,Hampshire and Isle of Wight,South West Trains,1196474,-12,244689
+5404,BCY,Brockley,SE4 2RW,London,Greater London,Lewisham,UKI1,Inner London,Southern,3292454,21,0
+2697,BMC,Bromley Cross,BL7 9PZ,North West,Greater Manchester,Bolton,UKD3,Greater Manchester,Northern Rail,398726,17,0
+4715,BMV,Bromsgrove,B60 2LX,West Midlands,Worcestershire,Bromsgrove,UKG1,Herefordshire Worcestershire and Warwickshire,London Midland Trains,523036,12,0
+1437,BSY,Brondesbury,NW6 7QB,London,Greater London,Brent,UKI2,Outer London,London Overground,1782512,52,0
+1438,BSP,Brondesbury Park,NW6 6RP,London,Greater London,Brent,UKI2,Outer London,London Overground,1112774,50,0
+6958,BCV,Bruce Grove,N17 6QA,London,Greater London,Haringey,UKI1,Inner London,National Express East Anglia,444100,23,0
+2222,BYN,Bryn,WN4 0AR,North West,Greater Manchester,Wigan,UKD3,Greater Manchester,Northern Rail,176950,17,0
+2945,BNA,Burnage,M20 6FJ,North West,Greater Manchester,Manchester,UKD3,Greater Manchester,Northern Rail,215648,15,0
+2743,BUB,Burnley Barracks,BB12 0HG,North West,Lancashire,Burnley,UKD4,Lancashire,Northern Rail,17186,23,0
+992,CAC,Caldercruix,MI6 7RJ ,Scotland,North Lanarkshire,North Lanarkshire,UKM3,South Western Scotland,First ScotRail,90976,718,0
+1439,CIR,Caledonian Road & Barnsbury,N1 1DF,London,Greater London,Islington,UKI1,Inner London,London Overground,977884,70,0
+3504,CBN,Camborne,TR14 8SR,South West,Cornwall And Isles Of Scilly,Kerrier,UKK3,Cornwall and Isles of Scilly,First Great Western,275544,11,0
+6962,CBH,Cambridge Heath,E2 9EG,London,Greater London,Tower Hamlets,UKI1,Inner London,National Express East Anglia,266510,19,0
+1440,CMD,Camden Road,NW1 9LS,London,Greater London,Camden,UKI1,Inner London,London Overground,3085394,68,24093
+1659,CAW,Canada Water,SE16 2YS ,London,Greater London,Southwark,UKI1,Inner London,London Overground,4883228,75,0
+1129,CNL,Canley,CV5 6BH,West Midlands,West Midlands,Coventry,UKG3,West Midlands,London Midland Trains,221218,13,0
+1016,CAO,Cannock,WS11 8NQ,West Midlands,Staffordshire,Cannock Chase,UKG2,Shropshire and Staffordshire,London Midland Trains,253484,13,0
+1441,CNN,Canonbury,N1 2PG,London,Greater London,Islington,UKI1,Inner London,London Overground,2102340,172,72868
+5007,CBW,Canterbury West,CT2 8AN,South East,Kent,Canterbury,UKJ4,Kent,Southeastern,2130720,11,101987
+2186,CPU,Capenhurst,CH1 6HE,North West,Cheshire,Chester,UKD2,Cheshire,Merseyrail,113312,-14,0
+3542,CBB,Carbis Bay,TR26 2NN,South West,Cornwall And Isles Of Scilly,Penwith,UKK3,Cornwall and Isles of Scilly,First Great Western,206736,274,0
+9877,CRF,Carfin,ML1 5AU,Scotland,North Lanarkshire,North Lanarkshire,UKM3,South Western Scotland,First ScotRail,92730,14,0
+6201,CTO,Carlton,NG4 2FD,East Midlands,Nottinghamshire,Gedling,UKF1,Derbyshire and Nottinghamshire,East Midlands Trains,22372,11,0
+9897,CAY,Carntyne,G32 6AW,Scotland,Glasgow City,Glasgow City,UKM3,South Western Scotland,First ScotRail,248398,18,0
+9704,CRS,Carstairs,ML11 8PR,Scotland,South Lanarkshire,South Lanarkshire,UKM3,South Western Scotland,First ScotRail,13548,27,3137
+2919,CAS,Castleton,OL11 3EB,North West,Greater Manchester,Rochdale,UKD3,Greater Manchester,Northern Rail,152856,21,0
+7051,CWC,Chappel & Wakes Colne,CO6 2DS,East,Essex,Colchester,UKH3,Essex,National Express East Anglia,38082,16,0
+9911,CHC,Charing Cross (Glasgow),G2 3HW,Scotland,Glasgow City,Glasgow City,UKM3,South Western Scotland,First ScotRail,2046692,25,0
+2870,CHU,Cheadle Hulme,SK8 5AF,North West,Greater Manchester,Stockport,UKD3,Greater Manchester,Northern Rail,697472,13,3720
+2573,CYT,Cherry Tree,BB2 2TZ,North West,Blackburn With Darwen,Blackburn With Darwen,UKD4,Lancashire,Northern Rail,40748,23,0
+1130,CRD,Chester Road,B73 5JS,West Midlands,West Midlands,Birmingham,UKG3,West Midlands,London Midland Trains,747938,32,0
+5595,CLJ,Clapham Junction,SW11 1SP,London,Greater London,Wandsworth,UKI1,Inner London,South West Trains,21918116,11,21609997
+6926,CPT,Clapton,E5 9JP,London,Greater London,Hackney,UKI1,Inner London,National Express East Anglia,1161120,16,2
+9718,CEA,Cleland,ML1 5RR,Scotland,North Lanarkshire,North Lanarkshire,UKM3,South Western Scotland,First ScotRail,86660,16,0
+2574,CLH,Clitheroe,BB7 2ED,North West,Lancashire,Ribble Valley,UKD4,Lancashire,Northern Rail,338730,26,0
+4070,CUW,Clunderwen,SA66 7NG,Wales - Cymru,Pembrokeshire - Sir Benfro,Pembrokeshire - Sir Benfro,UKL1,West Wales and the Valleys,Arriva Trains Wales,24812,12,0
+9747,CBC,Coatbridge Central,ML5 1RL,Scotland,North Lanarkshire,North Lanarkshire,UKM3,South Western Scotland,First ScotRail,54472,12,0
+9752,CBS,Coatbridge Sunnyside,ML5 2DF,Scotland,North Lanarkshire,North Lanarkshire,UKM3,South Western Scotland,First ScotRail,642576,19,0
+4616,CSL,Codsall,WV8 1BY,West Midlands,Staffordshire,South Staffordshire,UKG2,Shropshire and Staffordshire,London Midland Trains,121430,16,0
+3828,CGN,Cogan,CF64 2NS,Wales - Cymru,The Vale Of Glamorgan - Bro Morgannwg,The Vale Of Glamorgan - Bro Morgannwg,UKL2,East Wales,Arriva Trains Wales,237324,16,0
+6853,CET,Colchester Town,CO2 7EF,East,Essex,Colchester,UKH3,Essex,National Express East Anglia,463876,22,0
+9882,CEH,Coleshill Parkway,B46 1DA,West Midlands,Warwickshire,North Warwickshire,UKG3,West Midlands,London Midland Trains,170320,12,0
+6349,CLM,Collingham,NG23 7RB,East Midlands,Nottinghamshire,Newark And Sherwood,UKF1,Derbyshire and Nottinghamshire,East Midlands Trains,59738,24,0
+5457,CLL,Collington,TN39 3EW,South East,East Sussex,Rother,UKJ2,Surrey East & West Sussex,Southern,180784,20,0
+2486,CNW,Conwy,LL32 8LD,Wales - Cymru,Conwy - Conwy,Conwy - Conwy,UKL1,West Wales and the Valleys,Arriva Trains Wales,38136,19,0
+5821,COP,Copplestone,EX17 5NE,South West,Devon,Mid Devon,UKK4,Devon,First Great Western,12680,26,0
+1847,COR,Corby,NN17 1UJ,East Midlands,Northamptonshire,Corby,UKF2,Leicestershire Rutland and Northamptonshire,East Midlands Trains,215388,22,706
+9627,CKH,Corkerhill Glasgow,G52 1QR,Scotland,Glasgow City,Glasgow City,UKM3,South Western Scotland,First ScotRail,236562,12,0
+2049,CKL,Corkickle,CA28 8AP,North West,Cumbria,Copeland,UKD1,Cumbria,Northern Rail,29294,27,0
+1143,CSY,Coseley,WV14 8XP,West Midlands,West Midlands,Dudley,UKG3,West Midlands,London Midland Trains,367282,35,0
+4617,COS,Cosford,WV7 3EY,West Midlands,Shropshire,Bridgnorth,UKG2,Shropshire and Staffordshire,London Midland Trains,61378,-28,0
+5409,CWN,Cowden,TN8 7DS,South East,Kent,Sevenoaks,UKJ4,Kent,Southern,45354,19,0
+5754,CDI,Crediton,EX17 3BY,South West,Devon,Mid Devon,UKK4,Devon,First Great Western,48988,11,0
+8826,CNR,Crianlarich,FK20 8QN,Scotland,Stirling,Stirling,UKM2,Eastern Scotland,First ScotRail,16642,23,1317
+4312,CCC,Criccieth,LL52 0RW,Wales - Cymru,Gwynedd - Gwynedd,Gwynedd - Gwynedd,UKL1,West Wales and the Valleys,Arriva Trains Wales,24580,11,0
+1822,CMF,Cromford,DE4 5JJ,East Midlands,Derbyshire,Derbyshire Dales,UKF1,Derbyshire and Nottinghamshire,East Midlands Trains,34406,11,0
+9796,CMY,Crossmyloof,G41 3TW,Scotland,Glasgow City,Glasgow City,UKM3,South Western Scotland,First ScotRail,530594,14,0
+7406,CRH,Crouch Hill,N4 4AU,London,Greater London,Islington,UKI1,Inner London,London Overground,497964,55,0
+5325,COH,Crowborough,TN6 2JR,South East,East Sussex,Wealden,UKJ2,Surrey East & West Sussex,Southern,402274,11,0
+5233,CWU,Crowhurst,TN33 9DD,South East,East Sussex,Rother,UKJ2,Surrey East & West Sussex,Southeastern,33370,-15,0
+5356,CYP,Crystal Palace,SE19 2AZ,London,Greater London,Bromley,UKI2,Outer London,Southern,2126794,14,574812
+5201,CUX,Cuxton,ME2 1AB,South East,Medway,Medway,UKJ4,Kent,Southeastern,43490,11,0
+2077,DLS,Dalston,CA5 7LT,North West,Cumbria,Carlisle,UKD1,Cumbria,Northern Rail,28766,16,0
+1429,DLK,Dalston (Kingsland),E8 2JS,London,Greater London,Hackney,UKI1,Inner London,London Overground,4558220,78,0
+1443,DLJ,Dalston Junction,E8 3DE ,London,Greater London,Hackney,UKI1,Inner London,London Overground,2276848,71,1
+1957,DLT,Dalton,LA15 8QA,North West,Cumbria,Barrow-In-Furness,UKD1,Cumbria,Northern Rail,39748,-10,0
+6729,DAN,Darnall,S9 4JU,Yorkshire And The Humber,South Yorkshire,Sheffield,UKE3,South Yorkshire,Northern Rail,12310,12,0
+5412,DPD,Deepdene,RH4 7TY,South East,Surrey,Mole Valley,UKJ2,Surrey East & West Sussex,First Great Western,334844,-12,161121
+7212,DBR,Derby Road,IP3 8DN,East,Suffolk,Ipswich,UKH1,East Anglia,National Express East Anglia,43220,15,0
+5753,DIG,Digby and Sowton,EX2 7AW,South West,Devon,Exeter,UKK4,Devon,First Great Western,374496,21,0
+5502,DMH,Dilton Marsh,BA13 4DF,South West,Wiltshire,West Wiltshire,UKK1,Gloucestershire Wiltshire and North Somerset,First Great Western,16666,34,0
+8632,DIN,Dingwall,IV15 9PZ,Scotland,Highland,Highland,UKM4,Highlands and Islands,First ScotRail,101730,20,668
+7897,DND,Dinsdale,DL2 1EP,North East,Darlington,Darlington,UKC1,Tees Valley and Durham,Northern Rail,28378,32,0
+5036,DLH,Doleham,TN35 4LY,South East,East Sussex,Rother,UKJ2,Surrey East & West Sussex,Southern,38666,893,0
+5962,DCW,Dorchester West,DT1 2LB,South West,Dorset,West Dorset,UKK2,Dorset and Somerset,First Great Western,64776,-14,0
+6690,DOR,Dore,S17 3LB,Yorkshire And The Humber,South Yorkshire,Sheffield,UKE3,South Yorkshire,Northern Rail,106224,14,0
+6901,DVC,Dovercourt,CO12 3AG,East,Essex,Tendring,UKH3,Essex,National Express East Anglia,137192,16,0
+9967,DFR,Drumfrochar,PA15 4BY,Scotland,Inverclyde,Inverclyde,UKM3,South Western Scotland,First ScotRail,55170,-10,0
+9757,DRU,Drumgelloch,ML6 8JA,Scotland,North Lanarkshire,North Lanarkshire,UKM3,South Western Scotland,First ScotRail,269172,360,0
+1040,DUD,Duddeston,B7 4ST,West Midlands,West Midlands,Birmingham,UKG3,West Midlands,London Midland Trains,179932,28,0
+1212,DDP,Dudley Port,DY4 8UB,West Midlands,West Midlands,Sandwell,UKG3,West Midlands,London Midland Trains,382862,37,0
+8905,DYC,Dyce,AB21 7EQ,Scotland,Aberdeen City,Aberdeen City,UKM1,North Eastern Scotland,First ScotRail,677876,17,0
+4520,EWD,Earlswood (West Midlands),B94 5JS,West Midlands,West Midlands,Solihull,UKG3,West Midlands,London Midland Trains,36686,13,0
+2949,EDY,East Didsbury,M20 0WP,North West,Greater Manchester,Manchester,UKD3,Greater Manchester,Northern Rail,342866,11,0
+5358,EDW,East Dulwich,SE22 8EF,London,Greater London,Southwark,UKI1,Inner London,Southern,2085892,14,0
+5234,EFL,East Farleigh,ME15 0JH,South East,Kent,Maidstone,UKJ4,Kent,Southeastern,27922,10,0
+1901,EMD,East Midlands Parkway,NG11 0EE,East Midlands,Nottinghamshire,Rushcliffe,UKF1,Derbyshire and Nottinghamshire,East Midlands Trains,261880,19,24491
+5566,EBB,Ebbsfleet International,DA10 1EB ,South East,Kent,Dartford,UKJ4,Kent,Southeastern,912162,27,47238
+2950,ECC,Eccles,M30 0DN,North West,Greater Manchester,Salford,UKD3,Greater Manchester,Northern Rail,149336,23,0
+5359,EBT,Edenbridge Town,TN8 5LP,South East,Kent,Sevenoaks,UKJ4,Kent,Southern,334462,11,8401
+2169,EDG,Edge Hill,L7 1AD,North West,Merseyside,Liverpool,UKD5,Merseyside,Northern Rail,142102,15,14831
+9328,EDB,Edinburgh,EH1 1BB,Scotland,Edinburgh City Of,Edinburgh City Of,UKM2,Eastern Scotland,Network Rail,22585176,13,1143271
+9395,EDP,Edinburgh Park,EH11 4DF,Scotland,Edinburgh City Of,Edinburgh City Of,UKM2,Eastern Scotland,First ScotRail,646018,25,0
+6941,EDR,Edmonton Green,N9 7AA,London,Greater London,Enfield,UKI2,Outer London,National Express East Anglia,2094456,11,18997
+7918,EGT,Egton,YO21 1UX,Yorkshire And The Humber,North Yorkshire,Scarborough,UKE2,North Yorkshire,Northern Rail,10562,12,0
+7473,EMP,Emerson Park,RM11 2JP,London,Greater London,Havering,UKI2,Outer London,National Express East Anglia,94746,15,0
+6959,ENF,Enfield Town,EN1 1YX,London,Greater London,Enfield,UKI2,Outer London,National Express East Anglia,1564588,12,0
+2747,ENT,Entwistle,BL7 0NG,North West,Blackburn With Darwen,Blackburn With Darwen,UKD4,Lancashire,Northern Rail,15458,34,0
+5361,EPD,Epsom Downs,KT17 4JX,South East,Surrey,Reigate And Banstead,UKJ2,Surrey East & West Sussex,Southern,79452,14,0
+1041,ERD,Erdington,B23 6UB,West Midlands,West Midlands,Birmingham,UKG3,West Midlands,London Midland Trains,815212,40,0
+5459,ERI,Eridge,TN3 9LE,South East,East Sussex,Wealden,UKJ2,Surrey East & West Sussex,Southern,137736,12,0
+5415,EWE,Ewell East,KT17 1QR,South East,Surrey,Epsom And Ewell,UKJ2,Surrey East & West Sussex,Southern,449326,12,0
+3414,EXT,Exeter St. Thomas,EX4 1AJ,South West,Devon,Exeter,UKK4,Devon,First Great Western,137346,18,0
+9914,EXG,Exhibition Centre Glasgow,G3 8LD,Scotland,Glasgow City,Glasgow City,UKM3,South Western Scotland,First ScotRail,1317766,12,0
+2780,FRF,Fairfield,M43 6TT,North West,Greater Manchester,Tameside,UKD3,Greater Manchester,Northern Rail,21234,33,0
+5337,FMR,Falmer,BN1 9PU,South East,Brighton And Hove,Brighton And Hove,UKJ2,Surrey East & West Sussex,Southern,1248706,25,0
+3508,FAL,Falmouth Docks,TR11 4LT,South West,Cornwall And Isles Of Scilly,Carrick,UKK3,Cornwall and Isles of Scilly,First Great Western,104468,12,0
+3591,FMT,Falmouth Town,TR11 4AZ,South West,Cornwall And Isles Of Scilly,Carrick,UKK3,Cornwall and Isles of Scilly,First Great Western,193802,16,0
+2811,FNW,Farnworth,BL4 7QZ,North West,Greater Manchester,Bolton,UKD3,Greater Manchester,Northern Rail,44716,21,0
+1377,FEN,Fenny Stratford,MK2 2XP,South East,Milton Keynes,Milton Keynes,UKJ1,Berkshire Buckinghamshire and Oxfordshire,London Midland Trains,21312,23,0
+3862,FER,Fernhill,CF45 3DP,Wales - Cymru,Rhondda Cynon Taff - Rhondda Cynon Taf,Rhondda Cynon Taff - Rhondda Cynon Taf,UKL1,West Wales and the Valleys,Arriva Trains Wales,19974,-13,0
+3235,FIT,Filton Abbey Wood,BS34 7JW,South West,South Gloucestershire,South Gloucestershire,UKK1,Gloucestershire Wiltshire and North Somerset,First Great Western,771364,14,0
+1445,FNY,Finchley Road & Frognal,NW3 6EP,London,Greater London,Camden,UKI1,Inner London,London Overground,1349424,49,0
+6119,FPK,Finsbury Park,N4 2DH,London,Greater London,Islington,UKI1,Inner London,First Capital Connect,6448792,-12,1278866
+5284,FSG,Fishersgate,BN4 1LJ,South East,West Sussex,Adur,UKJ2,Surrey East & West Sussex,Southern,105982,12,0
+4076,FGH,Fishguard Harbour,SA64 0BU,Wales - Cymru,Pembrokeshire - Sir Benfro,Pembrokeshire - Sir Benfro,UKL1,West Wales and the Valleys,Arriva Trains Wales,38852,26,0
+6351,FSK,Fiskerton,NG25 0TR,East Midlands,Nottinghamshire,Newark And Sherwood,UKF1,Derbyshire and Nottinghamshire,East Midlands Trains,11280,15,0
+4503,FWY,Five Ways,B15 1SF,West Midlands,West Midlands,Birmingham,UKG3,West Midlands,London Midland Trains,1344704,28,0
+2026,FLM,Flimby,CA15 8QN,North West,Cumbria,Allerdale,UKD1,Cumbria,Northern Rail,15746,23,0
+5258,FOD,Ford,BN18 0BH,South East,West Sussex,Arun,UKJ2,Surrey East & West Sussex,Southern,117724,15,99766
+6876,FOG,Forest Gate,E7 0NF,London,Greater London,Newham,UKI1,Inner London,National Express East Anglia,2205108,15,0
+5362,FOH,Forest Hill,SE23 2LD,London,Greater London,Lewisham,UKI1,Inner London,Southern,4183510,15,0
+3344,FFD,Freshford,BA2 7WQ,South West,Bath And North East Somerset,Bath And North East Somerset,UKK1,Gloucestershire Wiltshire and North Somerset,First Great Western,37286,11,0
+2952,FNV,Furness Vale,SK12 7QA,East Midlands,Derbyshire,High Peak,UKF1,Derbyshire and Nottinghamshire,Northern Rail,20302,10,0
+2397,GST,Gathurst,WN5 0LW,North West,Greater Manchester,Wigan,UKD3,Greater Manchester,Northern Rail,91032,11,0
+5416,GTW,Gatwick Airport,RH6 0RD,South East,West Sussex,Crawley,UKJ2,Surrey East & West Sussex,Network Rail,14757940,12,1115495
+8117,GBD,Gilberdyke,HU15 2SU,Yorkshire And The Humber,East Riding Of Yorkshire,East Riding Of Yorkshire,UKE1,East Riding and North Linconshire,Northern Rail,50820,12,404
+5363,GIP,Gipsy Hill,SE19 1QL,London,Greater London,Lambeth,UKI1,Inner London,Southern,1915066,11,0
+7921,GLS,Glaisdale,YO21 2QL,Yorkshire And The Humber,North Yorkshire,Scarborough,UKE2,North Yorkshire,Northern Rail,18564,-13,0
+9301,GLT,Glenrothes with Thornton,KY1 4AE,Scotland,Fife,Fife,UKM2,Eastern Scotland,First ScotRail,57534,12,0
+6878,GMY,Goodmayes,IG3 9UH,London,Greater London,Redbridge,UKI2,Outer London,National Express East Anglia,2306444,11,0
+2962,GTO,Gorton,M11 1WN,North West,Greater Manchester,Manchester,UKD3,Greater Manchester,Northern Rail,135014,11,0
+1409,GPO,Gospel Oak,NW5 1LT,London,Greater London,Camden,UKI1,Inner London,London Overground,2198128,46,749437
+4131,GWN,Gowerton,SA4 3AJ,Wales - Cymru,Swansea - Abertawe,Swansea - Abertawe,UKL1,West Wales and the Valleys,Arriva Trains Wales,77854,17,0
+1965,GOS,Grange-Over-Sands,LA11 6EH,North West,Cumbria,South Lakeland,UKD1,Cumbria,First TransPennine Express,135112,-14,0
+3839,GTN,Grangetown (South Glamorgan),CF11 8UY,Wales - Cymru,Cardiff - Caerdydd,Cardiff - Caerdydd,UKL2,East Wales,Arriva Trains Wales,158060,10,0
+5514,GRT,Grateley,SP11 8TA,South East,Hampshire,Test Valley,UKJ3,Hampshire and Isle of Wight,South West Trains,238124,10,0
+1132,GVH,Gravelly Hill,B23 7NH,West Midlands,West Midlands,Birmingham,UKG3,West Midlands,London Midland Trains,635590,58,0
+3136,GFD,Greenford,UB6 8PX,London,Greater London,Ealing,UKI2,Outer London,London Underground,173868,14,0
+9610,GEA,Gretna Green,DG16 5HF,Scotland,Dumfries And Galloway,Dumfries And Galloway,UKM3,South Western Scotland,First ScotRail,36628,11,0
+2955,GUI,Guide Bridge,M34 5HF,North West,Greater Manchester,Tameside,UKD3,Greater Manchester,Northern Rail,275246,11,3721
+5588,GUN,Gunnersbury,W4 4AN,London,Greater London,Hounslow,UKI2,Outer London,London Underground,1788170,29,0
+7299,GNT,Gunton,NR11 8UD,East,Norfolk,North Norfolk,UKH1,East Anglia,National Express East Anglia,16742,-11,0
+6281,HAB,Habrough,DN40 3AB,Yorkshire And The Humber,North East Lincolnshire,North East Lincolnshire,UKE1,East Riding and North Linconshire,Northern Rail,33242,11,116
+6977,HKC,Hackney Central,E8 1LL,London,Greater London,Hackney,UKI1,Inner London,London Overground,3359640,73,0
+6978,HKW,Hackney Wick,E9 5JH,London,Greater London,Hackney,UKI1,Inner London,London Overground,972920,72,874
+1022,HGG,Haggerston,E8 4DY ,London,Greater London,Hackney,UKI1,Inner London,London Overground,1172578,130,0
+9810,HMY,Hairmyres,G75 8SW,Scotland,South Lanarkshire,South Lanarkshire,UKM3,South Western Scotland,First ScotRail,542390,10,0
+2572,HID,Hall I' Th' Wood,BL1 8UF,North West,Greater Manchester,Bolton,UKD3,Greater Manchester,Northern Rail,109652,27,0
+5947,HME,Hamble,SO31 4NL,South East,Hampshire,Eastleigh,UKJ3,Hampshire and Isle of Wight,South West Trains,111302,21,0
+1413,HDH,Hampstead Heath,NW3 2QD,London,Greater London,Camden,UKI1,Inner London,London Overground,2154144,56,0
+1033,HIA,Hampton-In-Arden,B92 0BJ,West Midlands,West Midlands,Solihull,UKG3,West Midlands,London Midland Trains,115458,19,0
+1145,HSD,Hamstead,B42 1NJ,West Midlands,West Midlands,Birmingham,UKG3,West Midlands,London Midland Trains,238244,60,0
+3007,HND,Handborough,OX8 6TF,South East,Oxfordshire,West Oxfordshire,UKJ1,Berkshire Buckinghamshire and Oxfordshire,First Great Western,136522,15,0
+2767,HTH,Handforth,SK9 3AB,North West,Cheshire,Macclesfield,UKD2,Cheshire,Northern Rail,236798,10,0
+1521,HDN,Harlesden,NW10 7AA,London,Greater London,Brent,UKI2,Outer London,London Underground,803402,30,0
+6804,HWM,Harlow Mill,CM20 2EL,East,Essex,Harlow,UKH3,Essex,National Express East Anglia,188206,11,0
+7401,HRY,Harringay Green Lanes,N4 1DR,London,Greater London,Haringey,UKI1,Inner London,London Overground,762442,52,0
+598,HOH,Harrow-On-The-Hill,HA1 1BB,London,Greater London,Harrow,UKI2,Outer London,London Underground,1444386,10,0
+9246,HTW,Hartwood,ML7 7DU,Scotland,North Lanarkshire,North Lanarkshire,UKM3,South Western Scotland,First ScotRail,16710,-11,0
+1398,HTE,Hatch End,HA5 4HU,London,Greater London,Harrow,UKI2,Outer London,London Overground,747536,10,0
+2826,HSG,Hathersage,S32 1DT,East Midlands,Derbyshire,Derbyshire Dales,UKF1,Derbyshire and Nottinghamshire,Northern Rail,56446,10,0
+4594,HTN,Hatton,CV35 7LE,West Midlands,Warwickshire,Warwick,UKG1,Herefordshire Worcestershire and Warwickshire,Chiltern Railways,43936,16,0
+1434,HDL,Headstone Lane,HA2 6NB,London,Greater London,Harrow,UKI2,Outer London,London Overground,429452,18,0
+6283,HLI,Healing,DN37 7RY,Yorkshire And The Humber,North East Lincolnshire,North East Lincolnshire,UKE1,East Riding and North Linconshire,Northern Rail,11454,12,0
+1148,HNF,Hednesford,WS12 1AZ,West Midlands,Staffordshire,Cannock Chase,UKG2,Shropshire and Staffordshire,London Midland Trains,178112,18,0
+7887,HEI,Heighington,DL5 6PX,North East,Durham,Sedgefield,UKC1,Tees Valley and Durham,Northern Rail,11458,21,0
+9982,HLU,Helensburgh Upper,G84 9LG,Scotland,Argyll And Bute,Argyll And Bute,UKM4,Highlands and Islands,First ScotRail,14198,-39,0
+4524,HNL,Henley-In-Arden,B95 5JH,West Midlands,Warwickshire,Stratford-On-Avon,UKG1,Herefordshire Worcestershire and Warwickshire,London Midland Trains,108952,15,0
+2138,HSW,Heswall,CH60 1XQ,North West,Merseyside,Wirral,UKD5,Merseyside,Arriva Trains Wales,54630,12,0
+9909,HST,High Street,G1 1PZ,Scotland,Glasgow City,Glasgow City,UKM3,South Western Scotland,First ScotRail,483560,19,0
+6009,HHY,Highbury & Islington,N5 1RA,London,Greater London,Islington,UKI1,Inner London,First Capital Connect,11800800,55,1971257
+2398,HIN,Hindley,WN2 2QJ,North West,Greater Manchester,Wigan,UKD3,Greater Manchester,Northern Rail,324866,18,8756
+1221,HCH,Holmes Chapel,CW4 8AA,North West,Cheshire,Congleton,UKD2,Cheshire,Northern Rail,154526,15,0
+5941,HOL,Holton Heath,BH16 6JT,South West,Dorset,Purbeck,UKK2,Dorset and Somerset,South West Trains,42356,35,0
+6979,HMN,Homerton,E9 5SB,London,Greater London,Hackney,UKI1,Inner London,London Overground,3020682,63,0
+5418,HPA,Honor Oak Park,SE23 1DY,London,Greater London,Lewisham,UKI1,Inner London,Southern,2217322,17,0
+2828,HOP,Hope (Derbyshire),S33 6RD,East Midlands,Derbyshire,High Peak,UKF1,Derbyshire and Nottinghamshire,Northern Rail,52440,14,0
+8720,HWI,Horwich Parkway,BL6 6LB,North West,Greater Manchester,Bolton,UKD3,Greater Manchester,Northern Rail,586464,14,0
+2303,HGN,Hough Green,WA8 7XU,North West,Halton,Halton,UKD2,Cheshire,Northern Rail,186450,13,0
+1563,HWW,How Wood (Hertfordshire),AL2 2NG,East,Hertfordshire,St. Albans,UKH2,Bedfordshire and Hertforshire,London Midland Trains,37854,11,0
+8071,HOW,Howden,DN14 7SE,Yorkshire And The Humber,East Riding Of Yorkshire,East Riding Of Yorkshire,UKE1,East Riding and North Linconshire,Northern Rail,94634,10,0
+1734,HOZ,Howwood,PA9 1AZ,Scotland,Renfrewshire,Renfrewshire,UKM3,South Western Scotland,First ScotRail,47932,16,0
+1023,HOX,Hoxton,E2 8FF ,London,Greater London,Hackney,UKI1,Inner London,London Overground,1042854,125,0
+2937,HUP,Humphrey Park,M32 9PP,North West,Greater Manchester,Trafford,UKD3,Greater Manchester,Northern Rail,30632,20,0
+2558,HCT,Huncoat,BB5 6LT,North West,Lancashire,Hyndburn,UKD4,Lancashire,Northern Rail,18974,19,0
+6310,HKM,Hykeham,LN6 9AT,East Midlands,Lincolnshire,North Kesteven,UKF3,Lincolnshire,East Midlands Trains,34576,36,0
+6851,HYH,Hythe,CO2 8JR,East,Essex,Colchester,UKH3,Essex,National Express East Anglia,100426,11,0
+9586,IMW,Imperial Wharf,SW6 2ZH ,London,Greater London,Hammersmith and Fulham,UKI1,Inner London,London Overground,1230734,67,0
+2236,INC,Ince,WN2 2DA,North West,Greater Manchester,Wigan,UKD3,Greater Manchester,Northern Rail,21608,13,0
+8648,IGD,Invergordon,IV18 0NJ,Scotland,Highland,Highland,UKM4,Highlands and Islands,First ScotRail,34566,47,0
+8924,INR,Inverurie,AB51 9TN,Scotland,Aberdeenshire,Aberdeenshire,UKM1,North Eastern Scotland,First ScotRail,403948,17,0
+2817,IRL,Irlam,M30 5AB,North West,Greater Manchester,Salford,UKD3,Greater Manchester,Northern Rail,224788,10,0
+3555,IVY,Ivybridge,PL21 0DQ,South West,Devon,South Hams,UKK4,Devon,First Great Western,86292,29,0
+1097,JEQ,Jewellery Quarter,B18 6LE,West Midlands,West Midlands,Birmingham,UKG3,West Midlands,London Midland Trains,342604,10,0
+2605,KSL,Kearsley,M24 1AA,North West,Greater Manchester,Bolton,UKD3,Greater Manchester,Northern Rail,35164,11,0
+5038,KSN,Kearsney,CT17 0RN,South East,Kent,Dover,UKJ4,Kent,Southeastern,30238,-16,0
+5079,KMS,Kemsing,TN15 6NT,South East,Kent,Sevenoaks,UKJ4,Kent,Southeastern,19134,25,0
+9816,KNS,Kennishead,G46 8HP,Scotland,Glasgow City,Glasgow City,UKM3,South Western Scotland,First ScotRail,66978,10,0
+1447,KNL,Kensal Green,NW10 5JT,London,Greater London,Brent,UKI2,Outer London,London Underground,938836,12,0
+1448,KNR,Kensal Rise,NW10 3JN,London,Greater London,Brent,UKI2,Outer London,London Overground,1746296,51,0
+3092,KPA,Kensington Olympia,W14 0NE,London,Greater London,Kensington And Chelsea,UKI1,Inner London,London Overground,5936984,157,38962
+1449,KTW,Kentish Town West,NW5 3LR,London,Greater London,Camden,UKI1,Inner London,London Overground,1234148,72,0
+1399,KNT,Kenton,HA3 0AZ,London,Greater London,Brent,UKI2,Outer London,London Underground,991410,21,0
+5593,KWB,Kew Bridge,TW8 9QS,London,Greater London,Hounslow,UKI2,Outer London,South West Trains,986312,13,0
+5594,KWG,Kew Gardens,TW9 3BZ,London,Greater London,Richmond Upon Thames,UKI2,Outer London,London Underground,899282,24,0
+4581,KID,Kidderminster,DY10 1QZ,West Midlands,Worcestershire,Wyre Forest,UKG1,Herefordshire Worcestershire and Warwickshire,London Midland Trains,1450884,12,0
+1229,KDG,Kidsgrove,ST7 1BX,West Midlands,Staffordshire,Newcastle-Under-Lyme,UKG2,Shropshire and Staffordshire,East Midlands Trains,158478,12,8308
+4132,KWL,Kidwelly,SA17 4UH,Wales - Cymru,Carmarthenshire - Sir Gaerfyrddin,Carmarthenshire - Sir Gaerfyrddin,UKL1,West Wales and the Valleys,Arriva Trains Wales,23552,11,0
+1415,KBN,Kilburn High Road,NW6 5UA,London,Greater London,Camden,UKI1,Inner London,London Overground,1657800,30,0
+4083,KGT,Kilgetty,SA68 0UF,Wales - Cymru,Pembrokeshire - Sir Benfro,Pembrokeshire - Sir Benfro,UKL1,West Wales and the Valleys,Arriva Trains Wales,15732,16,0
+9512,KMK,Kilmarnock,KA1 2AF,Scotland,East Ayrshire,East Ayrshire,UKM3,South Western Scotland,First ScotRail,587956,13,10851
+1109,KNN,King's Norton,B30 3DL,West Midlands,West Midlands,Birmingham,UKG3,West Midlands,London Midland Trains,1101660,39,0
+9817,KGP,King's Park,G44 5UT,Scotland,Glasgow City,Glasgow City,UKM3,South Western Scotland,First ScotRail,184778,12,0
+5109,KCK,Knockholt,TN14 7HR,London,Greater London,Bromley,UKI2,Outer London,Southeastern,323400,12,0
+2848,KNF,Knutsford,WA16 0PA,North West,Cheshire,Macclesfield,UKD2,Cheshire,Northern Rail,398596,10,0
+5504,LKE,Lake,PO36 8PJ,South East,Isle Of Wight,Isle Of Wight,UKJ3,Hampshire and Isle of Wight,South West Trains (Island Line),77772,15,0
+1017,LAW,Landywood,WS6 6JE,West Midlands,Staffordshire,South Staffordshire,UKG2,Shropshire and Staffordshire,London Midland Trains,116660,24,0
+4607,LGG,Langley Green,B69 4LZ,West Midlands,West Midlands,Sandwell,UKG3,West Midlands,London Midland Trains,161496,15,0
+8931,LAU,Laurencekirk,AB30 1NN,Scotland,Aberdeenshire,Aberdeenshire,UKM1,North Eastern Scotland,First ScotRail,86142,17,0
+2669,LAY,Layton,FY2 0SX,North West,Blackpool,Blackpool,UKD4,Lancashire,Northern Rail,63194,14,0
+1133,LEH,Lea Hall,B33 8JU,West Midlands,West Midlands,Birmingham,UKG3,West Midlands,London Midland Trains,453738,70,0
+7925,LHM,Lealholm,YO21 2AG,Yorkshire And The Humber,North Yorkshire,Scarborough,UKE2,North Yorkshire,Northern Rail,20010,11,0
+5294,LIH,Leigh (Kent),TN11 8RU,South East,Kent,Sevenoaks,UKJ4,Kent,Southern,42766,15,0
+3498,LTS,Lelant Saltings,TR26 3DL,South West,Cornwall And Isles Of Scilly,Penwith,UKK3,Cornwall and Isles of Scilly,First Great Western,101284,488,0
+2862,LVM,Levenshulme,M19 3PJ,North West,Greater Manchester,Manchester,UKD3,Greater Manchester,Northern Rail,434160,17,0
+7402,LEM,Leyton Midland Road,E10 6JT,London,Greater London,Waltham Forest,UKI2,Outer London,London Overground,749488,50,0
+7403,LER,Leytonstone High Road,E11 4RE,London,Greater London,Waltham Forest,UKI2,Outer London,London Overground,587078,41,0
+6340,LCN,Lincoln Central,LN5 7EW,East Midlands,Lincolnshire,Lincoln,UKF3,Lincolnshire,East Midlands Trains,1655324,13,24852
+3573,LSK,Liskeard,PL14 4DX,South West,Cornwall And Isles Of Scilly,Caradon,UKK3,Cornwall and Isles of Scilly,First Great Western,344516,11,67791
+2156,LTT,Little Sutton,CH66 1PA,North West,Cheshire,Ellesmere Port & Neston,UKD2,Cheshire,Merseyrail,114894,-10,0
+7072,LTP,Littleport,CB6 1JL,East,Cambridgeshire,East Cambridgeshire,UKH1,East Anglia,First Capital Connect,199798,12,0
+2242,LVC,Liverpool Central,L1 1JT,North West,Merseyside,Liverpool,UKD5,Merseyside,Merseyrail,14209241,-21,412269
+2246,LIV,Liverpool Lime Street,L1 1JD,North West,Merseyside,Liverpool,UKD5,Merseyside,Network Rail,13835314,17,777639
+9709,LSP,Liverpool South Parkway,L19 5NE ,North West,Merseyside,Liverpool,UKD5,Merseyside,Merseyrail,733700,14,455027
+9371,LSN,Livingston North,EH54 7EE,Scotland,West Lothian,West Lothian,UKM2,Eastern Scotland,First ScotRail,825516,29,0
+2467,LPG,Llanfairpwll,LL61 5UJ,Wales - Cymru,Isle Of Anglesey - Sir Ynys Mon,Isle Of Anglesey - Sir Ynys Mon,UKL1,West Wales and the Valleys,Arriva Trains Wales,17826,15,0
+2457,LWR,Llanrwst,LL26 0AD,Wales - Cymru,Conwy - Conwy,Conwy - Conwy,UKL1,West Wales and the Valleys,Arriva Trains Wales,16788,18,0
+9699,LWM,Llantwit Major,CF61 1ST,Wales - Cymru,The Vale Of Glamorgan - Bro Morgannwg,The Vale Of Glamorgan - Bro Morgannwg,UKL2,East Wales,Arriva Trains Wales,283084,44,0
+9156,LCG,Lochgelly,KY5 9EP,Scotland,Fife,Fife,UKM2,Eastern Scotland,First ScotRail,62738,14,0
+6966,LOF,London Fields,E8 3PH,London,Greater London,Hackney,UKI1,Inner London,National Express East Anglia,458618,23,0
+1067,LBK,Long Buckby,NN6 7QA,East Midlands,Northamptonshire,Daventry,UKF2,Leicestershire Rutland and Northamptonshire,London Midland Trains,235480,16,0
+1110,LOB,Longbridge,B31 2TW,West Midlands,West Midlands,Birmingham,UKG3,West Midlands,London Midland Trains,750688,18,0
+5674,LNG,Longcross,GU25 4JR,South East,Surrey,Runnymede,UKJ2,Surrey East & West Sussex,South West Trains,12300,15,0
+1305,LPT,Longport,ST6 4ND,West Midlands,Stoke-On-Trent,Stoke-On-Trent,UKG2,Shropshire and Staffordshire,East Midlands Trains,37566,22,0
+1306,LGN,Longton,ST3 1EZ,West Midlands,Stoke-On-Trent,Stoke-On-Trent,UKG2,Shropshire and Staffordshire,East Midlands Trains,60506,23,0
+3574,LOO,Looe,PL13 1HN,South West,Cornwall And Isles Of Scilly,Caradon,UKK3,Cornwall and Isles of Scilly,First Great Western,119648,19,0
+2307,LTG,Lostock Gralam,CW9 7NU,North West,Cheshire,Vale Royal,UKD2,Cheshire,Northern Rail,26126,31,0
+2689,LOH,Lostock Hall,PR5 5NF,North West,Lancashire,South Ribble,UKD4,Lancashire,Northern Rail,36996,11,0
+6202,LOW,Lowdham,NG14 7DU,East Midlands,Nottinghamshire,Newark And Sherwood,UKF1,Derbyshire and Nottinghamshire,East Midlands Trains,41656,19,0
+4640,LYE,Lye,DY9 8ES,West Midlands,West Midlands,Dudley,UKG3,West Midlands,London Midland Trains,87146,-17,0
+5892,LYP,Lymington Pier,SO41 5ZE,South East,Hampshire,New Forest,UKJ3,Hampshire and Isle of Wight,South West Trains,142072,-12,0
+5762,LYC,Lympstone Commando,EX8 5AA,South West,Devon,East Devon,UKK4,Devon,First Great Western,38616,-19,0
+5853,MDN,Maiden Newton,DT2 0AE,South West,Dorset,West Dorset,UKK2,Dorset and Somerset,First Great Western,19652,-15,0
+5237,MDB,Maidstone Barracks,ME16 0SQ,South East,Kent,Maidstone,UKJ4,Kent,Southeastern,117538,-27,21336
+5222,MDW,Maidstone West,ME16 8RJ,South East,Kent,Maidstone,UKJ4,Kent,Southeastern,494164,26,35863
+2961,MIA,Manchester Airport,M90 3RR,North West,Greater Manchester,Manchester,UKD3,Greater Manchester,First TransPennine Express,3163876,14,13932
+2966,MCO,Manchester Oxford Road,M1 6FU,North West,Greater Manchester,Manchester,UKD3,Greater Manchester,Northern Rail,8321622,26,577196
+2968,MAN,Manchester Piccadilly,M60 7RA,North West,Greater Manchester,Manchester,UKD3,Greater Manchester,Network Rail,18584710,-13,3795951
+2970,MCV,Manchester Victoria,M3 1PB,North West,Greater Manchester,Manchester,UKD3,Greater Manchester,Northern Rail,9829488,56,371630
+6856,MNG,Manningtree,CO11 2HH,East,Essex,Tendring,UKH3,Essex,National Express East Anglia,983060,10,320416
+6883,MNP,Manor Park,E12 5EP,London,Greater London,Newham,UKI1,Inner London,National Express East Anglia,1593368,12,0
+5223,MRN,Marden,TN12 9HS,South East,Kent,Maidstone,UKJ4,Kent,Southeastern,399996,12,0
+1034,MGN,Marston Green,B37 7AB,West Midlands,West Midlands,Solihull,UKG3,West Midlands,London Midland Trains,574392,53,0
+9957,MYH,Maryhill,G20 8HL,Scotland,Glasgow City,Glasgow City,UKM3,South Western Scotland,First ScotRail,80250,23,0
+1582,MTB,Matlock Bath,DE4 5JA,East Midlands,Derbyshire,Derbyshire Dales,UKF1,Derbyshire and Nottinghamshire,East Midlands Trains,56054,16,0
+2867,MAU,Mauldeth Road,M14 6SQ,North West,Greater Manchester,Manchester,UKD3,Greater Manchester,Northern Rail,323098,17,0
+9529,MAY,Maybole,KA19 8DS,Scotland,South Ayrshire,South Ayrshire,UKM3,South Western Scotland,First ScotRail,56330,22,0
+7221,MES,Melton,IP12 1LT,East,Suffolk,Suffolk Coastal,UKH1,East Anglia,National Express East Anglia,55086,27,0
+6297,MGM,Metheringham,LN4 3HX,East Midlands,Lincolnshire,North Kesteven,UKF3,Lincolnshire,East Midlands Trains,109586,12,0
+4095,MFH,Milford Haven,SA73 3AB,Wales - Cymru,Pembrokeshire - Sir Benfro,Pembrokeshire - Sir Benfro,UKL1,West Wales and the Valleys,Arriva Trains Wales,62236,10,0
+2750,MLH,Mill Hill (Lancashire),BB2 2QY,North West,Blackburn With Darwen,Blackburn With Darwen,UKD4,Lancashire,Northern Rail,70336,13,0
+1527,MIL,Mill Hill Broadway,NW7 2JU,London,Greater London,Barnet,UKI2,Outer London,First Capital Connect,1981008,10,0
+1537,MLB,Millbrook (Bedfordshire),MK45 2JJ,East,Bedfordshire,Mid Bedfordshire,UKH2,Bedfordshire and Hertforshire,London Midland Trains,15962,21,0
+2920,MIH,Mills Hill,M24 2HJ,North West,Greater Manchester,Rochdale,UKD3,Greater Manchester,Northern Rail,340862,20,0
+4469,MFF,Minffordd,LL48 6HG,Wales - Cymru,Gwynedd - Gwynedd,Gwynedd - Gwynedd,UKL1,West Wales and the Valleys,Arriva Trains Wales,12120,-16,0
+6906,MIS,Mistley,CO11 1HH,East,Essex,Tendring,UKH3,Essex,National Express East Anglia,63314,11,0
+5069,MTC,Mitcham Eastfields,CR4 2ND ,London,Greater London,Merton,UKI2,Outer London,Southern,620782,40,0
+5427,MIJ,Mitcham Junction,CR4 4HN,London,Greater London,Merton,UKI2,Outer London,Southern,387200,17,635
+3067,MRS,Monks Risborough,HP27 9JQ,South East,Buckinghamshire,Wycombe,UKJ1,Berkshire Buckinghamshire and Oxfordshire,Chiltern Railways,23542,14,0
+2226,MRF,Moorfields,L2 2BS,North West,Merseyside,Liverpool,UKD5,Merseyside,Merseyrail,6356766,37,625527
+2799,MSD,Moorside,M27 9PU,North West,Greater Manchester,Salford,UKD3,Greater Manchester,Northern Rail,47508,16,0
+5825,MRD,Morchard Road,EX17 5LR,South West,Devon,Mid Devon,UKK4,Devon,First Great Western,11458,30,0
+2606,MSS,Moses Gate,BL4 7LT,North West,Greater Manchester,Bolton,UKD3,Greater Manchester,Northern Rail,23178,20,0
+2973,MSO,Moston,M40 3NB,North West,Greater Manchester,Manchester,UKD3,Greater Manchester,Northern Rail,139512,26,0
+2158,MLD,Mouldsworth,WA6 9EG,North West,Cheshire,Chester,UKD2,Cheshire,Northern Rail,31552,10,0
+8665,MOO,Muir Of Ord,IV6 7ST,Scotland,Highland,Highland,UKM4,Highlands and Islands,First ScotRail,74462,19,0
+8666,NRN,Nairn,IV12 4QS,Scotland,Highland,Highland,UKM4,Highlands and Islands,First ScotRail,111750,10,0
+1247,NAN,Nantwich,CW5 5SS,North West,Cheshire,Crewe And Nantwich,UKD2,Cheshire,Arriva Trains Wales,127230,11,0
+7354,NMT,Needham Market,IP6 8AS,East,Suffolk,Mid Suffolk,UKH1,East Anglia,National Express East Anglia,77550,16,0
+2565,NEL,Nelson,BB9 9SF,North West,Lancashire,Pendle,UKD4,Lancashire,Northern Rail,129562,11,0
+5150,NWX,New Cross,SE14 6LD,London,Greater London,Lewisham,UKI1,Inner London,Southeastern,2345248,14,1575883
+5345,NXG,New Cross Gate,SE14 6AR,London,Greater London,Lewisham,UKI1,Inner London,Southern,4009204,33,1509806
+6499,NNG,Newark North Gate,NG24 1LS,East Midlands,Nottinghamshire,Newark And Sherwood,UKF1,Derbyshire and Nottinghamshire,East Coast,1087460,11,194895
+7038,NMK,Newmarket,CB8 9BB,East,Suffolk,Forest Heath,UKH1,East Anglia,National Express East Anglia,232374,17,0
+3523,NQY,Newquay,TR7 2NF,South West,Cornwall And Isles Of Scilly,Restormel,UKK3,Cornwall and Isles of Scilly,First Great Western,115340,15,0
+9609,NIT,Nitshill,G53 7NX,Scotland,Glasgow City,Glasgow City,UKM3,South Western Scotland,First ScotRail,86774,20,0
+7895,NRD,North Road,DL3 6ST,North East,Darlington,Darlington,UKC1,Tees Valley and Durham,Northern Rail,33014,31,0
+1422,NWB,North Wembley,HA9 7NT,London,Greater London,Brent,UKI2,Outer London,London Underground,604166,16,0
+1111,NFD,Northfield,B31 2PY,West Midlands,West Midlands,Birmingham,UKG3,West Midlands,London Midland Trains,742524,26,0
+6971,NUM,Northumberland Park,N17 0HY,London,Greater London,Haringey,UKI1,Inner London,National Express East Anglia,213556,21,0
+2326,NWI,Northwich,CW9 5LY,North West,Cheshire,Vale Royal,UKD2,Cheshire,Northern Rail,190010,10,0
+5376,NWD,Norwood Junction,SE25 5AG,London,Greater London,Croydon,UKI2,Outer London,Southern,3385194,13,1167456
+7946,NNT,Nunthorpe,TS7 0BL,North East,Redcar And Cleveland,Redcar And Cleveland,UKC1,Tees Valley and Durham,Northern Rail,22304,-10,0
+4689,OKN,Oakengates,TF2 6DH,West Midlands,Telford And Wrekin,Telford And Wrekin,UKG2,Shropshire and Staffordshire,London Midland Trains,52214,27,0
+5021,ORE,Ore,TN34 3ND,South East,East Sussex,Hastings,UKJ2,Surrey East & West Sussex,Southern,112458,-11,0
+2281,OMS,Ormskirk,L39 2YN,North West,Lancashire,West Lancashire,UKD4,Lancashire,Merseyrail,715374,-19,41755
+2259,ORR,Orrell,WN5 8TH,North West,Greater Manchester,Wigan,UKD3,Greater Manchester,Northern Rail,111958,10,0
+2387,PDG,Padgate,WA2 0QS,North West,Warrington,Warrington,UKD2,Cheshire,Northern Rail,91434,14,0
+3427,PGN,Paignton,TQ4 5EF,South West,Torbay,Torbay,UKK4,Devon,First Great Western,555180,10,0
+9664,PYJ,Paisley St.James,PA3 1RB,Scotland,Renfrewshire,Renfrewshire,UKM3,South Western Scotland,First ScotRail,50436,24,0
+3246,PSN,Parson Street,BS3 5PU,South West,Bristol City Of,Bristol City Of,UKK1,Gloucestershire Wiltshire and North Somerset,First Great Western,77722,13,0
+3213,PWY,Patchway,BS34 6LP,South West,South Gloucestershire,South Gloucestershire,UKK1,Gloucestershire Wiltshire and North Somerset,First Great Western,67418,13,0
+2916,PAT,Patricroft,M30 0GX,North West,Greater Manchester,Salford,UKD3,Greater Manchester,Northern Rail,44684,14,0
+9775,PTT,Patterton,G77 6NR,Scotland,East Renfrewshire,East Renfrewshire,UKM3,South Western Scotland,First ScotRail,402148,11,0
+2403,PEM,Pemberton,WN5 9HX,North West,Greater Manchester,Wigan,UKD3,Greater Manchester,Northern Rail,58846,13,0
+4140,PBY,Pembrey & Burry Port,SA16 0LW,Wales - Cymru,Carmarthenshire - Sir Gaerfyrddin,Carmarthenshire - Sir Gaerfyrddin,UKL1,West Wales and the Valleys,Arriva Trains Wales,132152,10,0
+5378,PNW,Penge West,SE20 8NU,London,Greater London,Bromley,UKI2,Outer London,Southern,462018,28,0
+3499,PNM,Penmere,TR11 2QZ,South West,Cornwall And Isles Of Scilly,Carrick,UKK3,Cornwall and Isles of Scilly,First Great Western,171604,13,0
+3992,PER,Penrhiwceiber,CF45 3ST,Wales - Cymru,Rhondda Cynon Taff - Rhondda Cynon Taf,Rhondda Cynon Taff - Rhondda Cynon Taf,UKL1,West Wales and the Valleys,Arriva Trains Wales,55386,-14,0
+3525,PYN,Penryn,TR10 8HF,South West,Cornwall And Isles Of Scilly,Carrick,UKK3,Cornwall and Isles of Scilly,First Great Western,211220,17,0
+3944,PTB,Pentre-Bach,CF48 4BD,Wales - Cymru,Merthyr Tydfil - Merthyr Tudful,Merthyr Tydfil - Merthyr Tudful,UKL2,East Wales,Arriva Trains Wales,19752,22,0
+3528,PRW,Perranwell,TR3 7JY,South West,Cornwall And Isles Of Scilly,Carrick,UKK3,Cornwall and Isles of Scilly,First Great Western,27030,26,0
+1128,PRY,Perry Barr,B20 3JE,West Midlands,West Midlands,Birmingham,UKG3,West Midlands,London Midland Trains,645442,60,0
+5757,PIN,Pinhoe,EX1 3SE,South West,Devon,Exeter,UKK4,Devon,South West Trains,47344,14,0
+8670,PLK,Plockton,IV52 8TX,Scotland,Highland,Highland,UKM4,Highlands and Islands,First ScotRail,13040,17,0
+9804,PWW,Pollokshaws West,G43 1NE,Scotland,Glasgow City,Glasgow City,UKM3,South Western Scotland,First ScotRail,119456,11,0
+9623,PLW,Pollokshields West,G41 5HT,Scotland,Glasgow City,Glasgow City,UKM3,South Western Scotland,First ScotRail,176292,13,0
+3422,POL,Polsloe Bridge,EX4 8AB,South West,Devon,Exeter,UKK4,Devon,First Great Western,99282,18,0
+6819,PON,Ponders End,EN3 4QB,London,Greater London,Enfield,UKI2,Outer London,National Express East Anglia,305896,18,0
+4023,PLT,Pontlottyn,CF81 9QX,Wales - Cymru,Caerphilly - Caerffili,Caerphilly - Caerffili,UKL1,West Wales and the Valleys,Arriva Trains Wales,18430,13,0
+3744,PPL,Pontypool and New Inn,NP4 0QX,Wales - Cymru,Torfaen - Tor-Faen,Torfaen - Tor-Faen,UKL2,East Wales,Arriva Trains Wales,49176,21,0
+3904,PPD,Pontypridd,CF37 1DT,Wales - Cymru,Rhondda Cynon Taff - Rhondda Cynon Taf,Rhondda Cynon Taff - Rhondda Cynon Taf,UKL1,West Wales and the Valleys,Arriva Trains Wales,873660,-16,97143
+9958,PPK,Possilpark & Parkhouse,G22 6LN,Scotland,Glasgow City,Glasgow City,UKM3,South Western Scotland,First ScotRail,112036,24,0
+5285,PRP,Preston Park,BN1 6SG,South East,Brighton And Hove,Brighton And Hove,UKJ2,Surrey East & West Sussex,Southern,373964,12,0
+9544,PRA,Prestwick Internat'nl Airport,KA9 2RZ,Scotland,South Ayrshire,South Ayrshire,UKM3,South Western Scotland,Glasgow Prestwick Airport,336982,-22,0
+9808,PTL,Priesthill & Darnley,G53 7US,Scotland,Glasgow City,Glasgow City,UKM3,South Western Scotland,First ScotRail,115920,10,0
+7419,PRL,Prittlewell,SS2 5BT,East,Southend-On-Sea,Southend-On-Sea,UKH3,Essex,National Express East Anglia,125048,13,0
+4185,PYL,Pyle,CF33 6AR,Wales - Cymru,Bridgend - Pen-Y-Bont Ar Ogwr,Bridgend - Pen-Y-Bont Ar Ogwr,UKL1,West Wales and the Valleys,Arriva Trains Wales,87650,14,0
+9822,QPK,Queen's Park (Glasgow),G42 8PQ,Scotland,Glasgow City,Glasgow City,UKM3,South Western Scotland,First ScotRail,545834,13,0
+1419,QPW,Queen's Park (Gt London),NW6 6NL,London,Greater London,Brent,UKI2,Outer London,London Underground,4057234,13,0
+5424,QRP,Queen's Road Peckham,SE15 2JR,London,Greater London,Southwark,UKI1,Inner London,Southern,1024608,14,0
+3118,RAD,Radley,OX14 3AB,South East,Oxfordshire,Vale Of White Horse,UKJ1,Berkshire Buckinghamshire and Oxfordshire,First Great Western,98856,17,0
+2734,RGW,Ramsgreave & Wilpshire,BB1 9BP,North West,Lancashire,Ribble Valley,UKD4,Lancashire,Northern Rail,108316,22,0
+3160,RDW,Reading West,RG1 7PY,South East,Reading,Reading,UKJ1,Berkshire Buckinghamshire and Oxfordshire,First Great Western,556976,25,7476
+6967,REC,Rectory Road,N16 7SJ,London,Greater London,Hackney,UKI1,Inner London,National Express East Anglia,702652,15,0
+5912,RDB,Redbridge,SO15 0NB,South East,Southampton,Southampton,UKJ3,Hampshire and Isle of Wight,South West Trains,30456,19,344
+3876,RIA,Rhoose (Cardiff Int Airpt),CF62 3HB,Wales - Cymru,The Vale Of Glamorgan - Bro Morgannwg,The Vale Of Glamorgan - Bro Morgannwg,UKL2,East Wales,Arriva Trains Wales,179572,16,0
+2131,RIL,Rice Lane,L9 3BY,North West,Merseyside,Liverpool,UKD5,Merseyside,Merseyrail,289784,-10,0
+5570,RMD,Richmond,TW9 2NA,London,Greater London,Richmond Upon Thames,UKI2,Outer London,South West Trains,8402376,10,1388212
+687,RIC,Rickmansworth,WD3 1QY,East,Hertfordshire,Three Rivers,UKH2,Bedfordshire and Hertforshire,London Underground,735116,11,0
+7510,RDM,Riding Mill,NE44 6EP,North East,Northumberland,Tynedale,UKC2,Northumberland and Tyne and Wear,Northern Rail,29322,-11,0
+2580,RIS,Rishton,BB1 4EY,North West,Lancashire,Hyndburn,UKD4,Lancashire,Northern Rail,65718,13,0
+2722,RSG,Rose Grove,BB12 6EH,North West,Lancashire,Burnley,UKD4,Lancashire,Northern Rail,40142,23,1
+1039,ROE,Rotherhithe,SE16 4LF ,London,Greater London,Southwark,UKI1,Inner London,London Overground,979092,42,0
+1087,RUG,Rugby,CV21 3LA,West Midlands,Warwickshire,Rugby,UKG1,Herefordshire Worcestershire and Warwickshire,Virgin Trains (West Coast),1750748,12,169587
+1135,RGT,Rugeley Town,WS15 2HQ,West Midlands,Staffordshire,Cannock Chase,UKG2,Shropshire and Staffordshire,London Midland Trains,151106,29,-
+1084,RGL,Rugeley Trent Valley,WS15 3HA,West Midlands,Staffordshire,Lichfield,UKG2,Shropshire and Staffordshire,London Midland Trains,113816,48,30170
+6327,RKT,Ruskington,NG34 9ED,East Midlands,Lincolnshire,North Kesteven,UKF3,Lincolnshire,East Midlands Trains,91832,12,0
+9787,RUT,Rutherglen,G73 1DB,Scotland,South Lanarkshire,South Lanarkshire,UKM3,South Western Scotland,First ScotRail,894434,12,0
+2977,RRB,Ryder Brow,SK6 1AA,North West,Greater Manchester,Manchester,UKD3,Greater Manchester,Northern Rail,28464,10,0
+2798,SFD,Salford,M3 5ET,North West,Greater Manchester,Salford,UKD3,Greater Manchester,Northern Rail,265004,11,0
+2794,SLD,Salford Crescent,M5 4BR,North West,Greater Manchester,Salford,UKD3,Greater Manchester,Northern Rail,1332060,11,216163
+5380,SAF,Salfords,RH1 5DE,South East,Surrey,Reigate And Banstead,UKJ2,Surrey East & West Sussex,Southern,128728,12,0
+3587,STS,Saltash,PL12 5LU,South West,Cornwall And Isles Of Scilly,Caradon,UKK3,Cornwall and Isles of Scilly,First Great Western,76000,28,0
+5646,SND,Sandhurst,GU47 4QO,South East,Bracknell Forest,Bracknell Forest,UKJ1,Berkshire Buckinghamshire and Oxfordshire,First Great Western,142278,11,0
+1149,SAD,Sandwell & Dudley,B70 7JD,West Midlands,West Midlands,Sandwell,UKG3,West Midlands,London Midland Trains,700090,17,0
+5026,SDW,Sandwich,CT13 9JR,South East,Kent,Dover,UKJ4,Kent,Southeastern,358302,22,0
+2388,SNK,Sankey For Penketh,WA5 1RQ,North West,Warrington,Warrington,UKD2,Cheshire,Northern Rail,119756,20,0
+9549,SQH,Sanquhar,DG4 6DQ,Scotland,Dumfries And Galloway,Dumfries And Galloway,UKM3,South Western Scotland,First ScotRail,28434,13,0
+4270,SRR,Sarn,CF32 9RL,Wales - Cymru,Bridgend - Pen-Y-Bont Ar Ogwr,Bridgend - Pen-Y-Bont Ar Ogwr,UKL1,West Wales and the Valleys,Arriva Trains Wales,45532,10,0
+2003,SSC,Seascale,CA20 1QL,North West,Cumbria,Copeland,UKD1,Cumbria,Northern Rail,37438,-14,0
+8007,SEC,Seaton Carew,TS25 1DW,North East,Hartlepool,Hartlepool,UKC1,Tees Valley and Durham,Northern Rail,44668,12,0
+1105,SLY,Selly Oak,B29 6DW,West Midlands,West Midlands,Birmingham,UKG3,West Midlands,London Midland Trains,2269532,45,0
+6893,SVK,Seven Kings,IG3 8RE,London,Greater London,Redbridge,UKI2,Outer London,National Express East Anglia,1879664,10,0
+6931,SVS,Seven Sisters,N15 5LA,London,Greater London,Haringey,UKI1,Inner London,National Express East Anglia,3049236,16,8082
+3205,SVB,Severn Beach,BS35 4PQ,South West,South Gloucestershire,South Gloucestershire,UKK1,Gloucestershire Wiltshire and North Somerset,First Great Western,141714,25,0
+1082,SDE,Shadwell,E1 2QF,London,Greater London,Tower Hamlets,UKI1,Inner London,London Overground,1658564,68,0
+5929,SHW,Shawford,SO21 2AA,South East,Hampshire,Winchester,UKJ3,Hampshire and Isle of Wight,South West Trains,149382,14,0
+1178,SEN,Shenstone,WS14 0NW,West Midlands,Staffordshire,Lichfield,UKG2,Shropshire and Staffordshire,London Midland Trains,160312,-15,0
+9587,SPB,Shepherds Bush,W12 8LB,London,Greater London,Kensington And Chelsea,UKI1,Inner London,London Overground,3148594,41,0
+8257,SIE,Sherburn-In-Elmet,LS25 6DY,Yorkshire And The Humber,North Yorkshire,Selby,UKE2,North Yorkshire,Northern Rail,31920,46,0
+9903,SLS,Shettleston,G32 0PF,Scotland,Glasgow City,Glasgow City,UKM3,South Western Scotland,First ScotRail,682706,11,0
+4619,SFN,Shifnal,TF11 9QB,West Midlands,Shropshire,Bridgnorth,UKG2,Shropshire and Staffordshire,London Midland Trains,121998,17,0
+7893,SHD,Shildon,DL4 1LX,North East,Durham,Sedgefield,UKC1,Tees Valley and Durham,Northern Rail,58478,21,0
+4526,SRL,Shirley,B90 2NE,West Midlands,West Midlands,Solihull,UKG3,West Midlands,London Midland Trains,313430,-14,0
+1024,SDC,Shoreditch High Street,E1 6GJ ,London,Greater London,Hackney,UKI1,Inner London,London Overground,2617616,-15,46345
+2546,SHT,Shotton,CH5 1BX,Wales - Cymru,Flintshire - Sir Y Fflint,Flintshire - Sir Y Fflint,UKL2,East Wales,Arriva Trains Wales,246266,13,18354
+9739,SHS,Shotts,ML7 5DX,Scotland,North Lanarkshire,North Lanarkshire,UKM3,South Western Scotland,First ScotRail,196600,11,0
+6972,SLV,Silver Street,N18 2UE,London,Greater London,Enfield,UKI2,Outer London,National Express East Anglia,669550,14,0
+9236,SLA,Slateford,EH14 1BX,Scotland,Edinburgh City Of,Edinburgh City Of,UKM2,Eastern Scotland,First ScotRail,24518,14,0
+4530,SMA,Small Heath,B10 0DP,West Midlands,West Midlands,Birmingham,UKG3,West Midlands,London Midland Trains,100126,16,0
+1114,SGB,Smethwick Galton Bridge,B66 1HU,West Midlands,West Midlands,Sandwell,UKG3,West Midlands,London Midland Trains,494730,44,357845
+1150,SMR,Smethwick Rolfe Street,B68 2AF,West Midlands,West Midlands,Sandwell,UKG3,West Midlands,London Midland Trains,369170,99,59
+2660,SMB,Smithy Bridge,OL15 0DZ,North West,Greater Manchester,Rochdale,UKD3,Greater Manchester,Northern Rail,163018,16,0
+1452,SAT,South Acton,W3 8TG,London,Greater London,Ealing,UKI2,Outer London,London Overground,523706,36,0
+1451,SOH,South Hampstead,NW8 0DJ,London,Greater London,Camden,UKI1,Inner London,London Overground,582326,18,0
+5292,SMO,South Merton,SW20 9JT,London,Greater London,Merton,UKI2,Outer London,First Capital Connect,157004,14,0
+7404,STO,South Tottenham,N15 6UJ,London,Greater London,Haringey,UKI1,Inner London,London Overground,657598,49,0
+3187,STL,Southall,UB2 4AA,London,Greater London,Ealing,UKI2,Outer London,First Great Western,2121978,12,0
+6947,SBU,Southbury,EN3 4HW,London,Greater London,Enfield,UKI2,Outer London,National Express East Anglia,383544,13,0
+5339,SEE,Southease,BN8 6JS,South East,East Sussex,Lewes,UKJ2,Surrey East & West Sussex,Southern,13816,13,0
+7456,SOC,Southend Central,SS1 1AB,East,Southend-On-Sea,Southend-On-Sea,UKH3,Essex,c2c,2084794,15,43076
+1699,SPO,Spondon,DE21 7RX,East Midlands,Derby,Derby,UKF1,Derbyshire and Nottinghamshire,East Midlands Trains,19826,21,0
+3537,SER,St.Erth,TR27 6JW,South West,Cornwall And Isles Of Scilly,Penwith,UKK3,Cornwall and Isles of Scilly,First Great Western,202362,68,179632
+3586,SGM,St.Germans,PL12 5LS,South West,Cornwall And Isles Of Scilly,Caradon,UKK3,Cornwall and Isles of Scilly,First Great Western,51030,14,0
+5290,SIH,St.Helier,SM4 5NR,London,Greater London,Merton,UKI2,Outer London,First Capital Connect,178222,18,0
+3538,SIV,St.Ives,TR26 2BP,South West,Cornwall And Isles Of Scilly,Penwith,UKK3,Cornwall and Isles of Scilly,First Great Western,578214,124,0
+6973,SJS,St.James' Street,E17 7PJ,London,Greater London,Waltham Forest,UKI2,Outer London,National Express East Anglia,747530,12,0
+6821,SMT,St.Margaret's (Hertfordshire),SG12 8DS,East,Hertfordshire,East Hertfordshire,UKH2,Bedfordshire and Hertforshire,National Express East Anglia,324960,13,0
+6287,SLL,Stallingborough,DN41 8AS,Yorkshire And The Humber,North East Lincolnshire,North East Lincolnshire,UKE1,East Riding and North Linconshire,Northern Rail,11104,13,0
+6968,SMH,Stamford Hill,N16 5AG,London,Greater London,Haringey,UKI1,Inner London,National Express East Anglia,373482,12,0
+6833,SST,Stansted Mountfitchet,CM24 8BE,East,Essex,Uttlesford,UKH3,Essex,National Express East Anglia,458130,16,6026
+3413,SCS,Starcross,EX6 8PA,South West,Devon,Teignbridge,UKK4,Devon,First Great Western,101048,11,0
+1043,SCF,Stechford,B33 8AJ,West Midlands,West Midlands,Birmingham,UKG3,West Midlands,London Midland Trains,360802,73,0
+9554,STT,Stewarton,KA3 5BD,Scotland,East Ayrshire,East Ayrshire,UKM3,South Western Scotland,First ScotRail,322178,14,0
+6934,SKW,Stoke Newington,N16 6YA,London,Greater London,Hackney,UKI1,Inner London,National Express East Anglia,821876,20,0
+1316,SNE,Stone,ST15 8ER ,West Midlands,Staffordshire,Stafford,UKG2,Shropshire and Staffordshire,London Midland Trains,85074,11,0
+5248,SCG,Stone Crossing,DA9 9AR,South East,Kent,Dartford,UKJ4,Kent,Southeastern,171782,24,0
+1454,SBP,Stonebridge Park,NW10 0RL,London,Greater London,Brent,UKI2,Outer London,London Underground,900572,23,0
+4643,SBT,Stourbridge Town,DY8 1EX,West Midlands,West Midlands,Dudley,UKG3,West Midlands,London Midland Trains,471220,-21,0
+9555,STR,Stranraer,DG9 8EJ,Scotland,Dumfries And Galloway,Dumfries And Galloway,UKM3,South Western Scotland,First ScotRail,45388,-21,0
+6969,SRA,Stratford,E15 1AZ,London,Greater London,Newham,UKI1,Inner London,National Express East Anglia,21797396,25,2064190
+4558,SAV,Stratford-Upon-Avon,CV37 6PL,West Midlands,Warwickshire,Stratford-On-Avon,UKG1,Herefordshire Worcestershire and Warwickshire,London Midland Trains,855818,36,849
+8673,STC,Strathcarron,IV54 8YR,Scotland,Highland,Highland,UKM4,Highlands and Islands,First ScotRail,11010,36,0
+5435,SRH,Streatham Hill,SW2 4PA,London,Greater London,Lambeth,UKI1,Inner London,Southern,2684526,16,0
+2834,SRN,Strines,SK22 3AY,North West,Greater Manchester,Stockport,UKD3,Greater Manchester,Northern Rail,11694,10,0
+9959,SUM,Summerston,G23 5AT,Scotland,Glasgow City,Glasgow City,UKM3,South Western Scotland,First ScotRail,140546,21,0
+5675,SNY,Sunnymeads,SL3 9PX,South East,Windsor And Maidenhead,Windsor And Maidenhead,UKJ1,Berkshire Buckinghamshire and Oxfordshire,South West Trains,36528,16,0
+1083,SQE,Surrey Quays,SE16 2UE ,London,Greater London,Southwark,UKI1,Inner London,London Overground,1801232,57,1087933
+1044,SUT,Sutton Coldfield,B73 6AY,West Midlands,West Midlands,Birmingham,UKG3,West Midlands,London Midland Trains,1377074,16,0
+5436,SUC,Sutton Common,SM1 3HY,London,Greater London,Sutton,UKI2,Outer London,First Capital Connect,303538,11,0
+5933,SWG,Swaythling,SO18 2LB,South East,Southampton,Southampton,UKJ3,Hampshire and Isle of Wight,South West Trains,103766,16,0
+6355,SWD,Swinderby,LN6 9HY,East Midlands,Lincolnshire,North Kesteven,UKF3,Lincolnshire,East Midlands Trains,16814,46,0
+2800,SNN,Swinton (Greater Manchester),M27 6BT,North West,Greater Manchester,Salford,UKD3,Greater Manchester,Northern Rail,153452,26,0
+5437,SYD,Sydenham,SE26 5EU,London,Greater London,Lewisham,UKI1,Inner London,Southern,2932598,14,0
+5609,SYL,Syon Lane,TW8 8JG,London,Greater London,Hounslow,UKI2,Outer London,South West Trains,905236,11,0
+3195,TAC,Tackley,OX5 3AT,South East,Oxfordshire,West Oxfordshire,UKJ1,Berkshire Buckinghamshire and Oxfordshire,First Great Western,34372,64,0
+8676,TAI,Tain,IV19 1JA,Scotland,Highland,Highland,UKM4,Highlands and Islands,First ScotRail,33638,25,0
+4479,TAL,Talsarnau,LL47 6UA,Wales - Cymru,Gwynedd - Gwynedd,Gwynedd - Gwynedd,UKL1,West Wales and the Valleys,Arriva Trains Wales,12064,24,0
+1010,TAB,Tame Bridge Parkway,WS10 0LD,West Midlands,West Midlands,Sandwell,UKG3,West Midlands,London Midland Trains,490874,28,0
+5387,TAT,Tattenham Corner,KT18 5PR,South East,Surrey,Reigate And Banstead,UKJ2,Surrey East & West Sussex,Southern,278686,14,0
+3430,TGM,Teignmouth,TQ14 8PG,South West,Devon,Teignbridge,UKK4,Devon,First Great Western,566528,12,0
+4523,THW,The Hawthorns,B66 2HB,West Midlands,West Midlands,Sandwell,UKG3,West Midlands,London Midland Trains,387072,18,0
+9812,THB,Thornliebank,G46 7DA,Scotland,East Renfrewshire,East Renfrewshire,UKM3,South Western Scotland,First ScotRail,206762,12,0
+1035,THL,Tile Hill,CV4 8AS,West Midlands,West Midlands,Coventry,UKG3,West Midlands,London Midland Trains,436390,29,0
+1159,TIP,Tipton,DY4 8ET,West Midlands,West Midlands,Sandwell,UKG3,West Midlands,London Midland Trains,253116,20,0
+5758,TOP,Topsham,EX3 0DS,South West,Devon,Exeter,UKK4,Devon,First Great Western,221238,11,0
+3432,TRR,Torre,TQ2 5DD,South West,Torbay,Torbay,UKK4,Devon,First Great Western,224072,25,0
+2283,TWN,Town Green,L39 6RG,North West,Lancashire,West Lancashire,UKD4,Lancashire,Merseyrail,149306,-23,0
+3887,TRF,Trefforest,CF37 1SL,Wales - Cymru,Rhondda Cynon Taff - Rhondda Cynon Taf,Rhondda Cynon Taff - Rhondda Cynon Taf,UKL1,West Wales and the Valleys,Arriva Trains Wales,911800,18,0
+3886,TRE,Trefforest Estate,CF38 1SG,Wales - Cymru,Rhondda Cynon Taff - Rhondda Cynon Taf,Rhondda Cynon Taff - Rhondda Cynon Taf,UKL1,West Wales and the Valleys,Arriva Trains Wales,104444,-10,0
+3540,TRU,Truro,TR1 3HH,South West,Cornwall And Isles Of Scilly,Carrick,UKK3,Cornwall and Isles of Scilly,First Great Western,1278354,10,193125
+3817,TGS,Ty Glas,CF14 5DL,Wales - Cymru,Cardiff - Caerdydd,Cardiff - Caerdydd,UKL2,East Wales,Arriva Trains Wales,110222,21,0
+5334,UCK,Uckfield,TN22 1HS,South East,East Sussex,Wealden,UKJ2,Surrey East & West Sussex,Southern,445146,10,8728
+5826,UMB,Umberleigh,EX37 9AB,South West,Devon,North Devon,UKK4,Devon,First Great Western,23786,20,0
+4504,UNI,University,B15 2FB,West Midlands,West Midlands,Birmingham,UKG3,West Midlands,London Midland Trains,2594728,20,0
+9373,UHA,Uphall,EH54 5QG,Scotland,West Lothian,West Lothian,UKM2,Eastern Scotland,First ScotRail,325148,45,0
+2364,UPL,Upholland,WN8 9QD,North West,Lancashire,West Lancashire,UKD4,Lancashire,Northern Rail,25400,23,0
+1524,UHL,Upper Holloway,N19 4DJ,London,Greater London,Islington,UKI1,Inner London,London Overground,736306,46,0
+5392,WDO,Waddon,CR0 4NA,London,Greater London,Croydon,UKI2,Outer London,Southern,627586,12,0
+6268,WFL,Wainfleet,PE24 2DR,East Midlands,Lincolnshire,East Lindsey,UKF3,Lincolnshire,East Midlands Trains,41578,-36,0
+2612,WKD,Walkden,M28 3DY,North West,Greater Manchester,Salford,UKD3,Greater Manchester,Northern Rail,305088,15,0
+1216,WSL,Walsall,WS2 9JS,West Midlands,West Midlands,Walsall,UKG3,West Midlands,London Midland Trains,1216380,23,11184
+7407,WMW,Walthamstow Queens Road,E17 7QJ,London,Greater London,Waltham Forest,UKI2,Outer London,London Overground,334630,55,0
+5639,WAN,Wanborough,GU3 2ED,South East,Surrey,Guildford,UKJ2,Surrey East & West Sussex,South West Trains,102510,11,0
+5372,WWR,Wandsworth Road,SW4 6AD,London,Greater London,Lambeth,UKI1,Inner London,Southern,279248,17,0
+7408,WNP,Wanstead Park,E7 0HX,London,Greater London,Newham,UKI1,Inner London,London Overground,505344,44,1911
+1085,WPE,Wapping,E1W 3PA ,London,Greater London,Tower Hamlets,UKI1,Inner London,London Overground,1081332,50,0
+5264,WBL,Warblington,PO9 2QD,South East,Hampshire,Havant,UKJ3,Hampshire and Isle of Wight,Southern,31212,15,0
+5316,WNH,Warnham,RH12 3SR,South East,West Sussex,Horsham,UKJ2,Surrey East & West Sussex,Southern,14896,33,0
+1455,WFH,Watford High Street,WD17 2NW,East,Hertfordshire,Watford,UKH2,Bedfordshire and Hertforshire,London Overground,922436,10,0
+1403,WFN,Watford North,WD2 4QN,East,Hertfordshire,Watford,UKH2,Bedfordshire and Hertforshire,London Midland Trains,103326,10,0
+7057,WTG,Watlington,PE33 0JF,East,Norfolk,Kings Lynn And West Norfolk,UKH1,East Anglia,First Capital Connect,129014,13,0
+3796,WNG,Waun-gron Park,CF5 2BN,Wales - Cymru,Cardiff - Caerdydd,Cardiff - Caerdydd,UKL2,East Wales,Arriva Trains Wales,47490,11,0
+1423,WMB,Wembley Central,HA9 7AJ,London,Greater London,Brent,UKI2,Outer London,London Underground,2654924,20,6840
+1509,WCX,Wembley Stadium,HA9 8BQ,London,Greater London,Brent,UKI2,Outer London,Chiltern Railways,542600,13,0
+8875,WBP,West Brompton,SW5 9JX,London,Greater London,Kensington And Chelsea,UKI1,Inner London,London Underground,2103946,40,0
+5411,WCY,West Croydon,CR0 2TA,London,Greater London,Croydon,UKI2,Outer London,Southern,3870408,16,431230
+7474,WEH,West Ham,E15 3BN,London,Greater London,Newham,UKI1,Inner London,c2c,3514268,18,18644
+1421,WHD,West Hampstead,NW6 2LJ,London,Greater London,Camden,UKI1,Inner London,London Overground,2880920,52,259276
+5293,WSU,West Sutton,SM1 2EY,London,Greater London,Sutton,UKI2,Outer London,First Capital Connect,301058,11,0
+9231,WTA,Wester Hailes,EH14 3AQ,Scotland,Edinburgh City Of,Edinburgh City Of,UKM2,Eastern Scotland,First ScotRail,29820,28,0
+7226,WFI,Westerfield,IP6 9AE,East,Suffolk,Suffolk Coastal,UKH1,East Anglia,National Express East Anglia,14792,11,5111
+3388,WNM,Weston Milton,BS22 8PF,South West,North Somerset,North Somerset,UKK1,Gloucestershire Wiltshire and North Somerset,First Great Western,46718,15,0
+7572,WRL,Wetheral,CA4 8JP,North West,Cumbria,Carlisle,UKD1,Cumbria,Northern Rail,17430,24,0
+2736,WHE,Whalley,BB7 9SE,North West,Lancashire,Ribble Valley,UKD4,Lancashire,Northern Rail,86672,11,0
+5759,WHM,Whimple,EX5 2QW,South West,Devon,East Devon,UKK4,Devon,South West Trains,68434,13,0
+6956,WHL,White Hart Lane,N17 8HH,London,Greater London,Haringey,UKI1,Inner London,National Express East Anglia,787692,16,0
+4935,WCA,Whitechapel,E1 1BY,London,Greater London,Tower Hamlets,UKI1,Inner London,London Overground,3643542,76,0
+6551,WWL,Whitwell (Derbys),S80 4NY,East Midlands,Derbyshire,Bolsover,UKF1,Derbyshire and Nottinghamshire,East Midlands Trains,24436,18,0
+7227,WCM,Wickham Market,IP13 0PT,East,Suffolk,Suffolk Coastal,UKH1,East Anglia,National Express East Anglia,32856,11,0
+4528,WMR,Widney Manor,B91 3LB,West Midlands,West Midlands,Solihull,UKG3,West Midlands,London Midland Trains,311952,14,0
+1457,WIJ,Willesden Junction,NW10 4UY,London,Greater London,Hammersmith And Fulham,UKI1,Inner London,London Overground,3504304,47,2022895
+1905,WIL,Willington,DE65 6BN,East Midlands,Derbyshire,South Derbyshire,UKF1,Derbyshire and Nottinghamshire,East Midlands Trains,15892,16,0
+4568,WMC,Wilmcote,CV37 9UP,West Midlands,Warwickshire,Stratford-On-Avon,UKG1,Herefordshire Worcestershire and Warwickshire,London Midland Trains,20984,24,0
+5578,WIM,Wimbledon,SW19 7NL,London,Greater London,Merton,UKI2,Outer London,South West Trains,18245850,13,1590568
+5612,WBO,Wimbledon Chase,SW20 8JT,London,Greater London,Merton,UKI2,Outer London,First Capital Connect,379482,18,0
+1011,WTT,Witton,B6 7BA,West Midlands,West Midlands,Birmingham,UKG3,West Midlands,London Midland Trains,265418,56,0
+1364,WOL,Wolverton,MK12 5LQ,South East,Milton Keynes,Milton Keynes,UKJ1,Berkshire Buckinghamshire and Oxfordshire,London Midland Trains,361302,13,0
+4536,WDE,Wood End,B94 5DS,West Midlands,Warwickshire,Stratford-On-Avon,UKG1,Herefordshire Worcestershire and Warwickshire,London Midland Trains,12696,11,0
+6954,WST,Wood Street,E17 3LX,London,Greater London,Waltham Forest,UKI2,Outer London,National Express East Anglia,750460,11,0
+7228,WDB,Woodbridge,IP12 4AU,East,Suffolk,Suffolk Coastal,UKH1,East Anglia,National Express East Anglia,169390,27,0
+7467,WGR,Woodgrange Park,E7 8AF,London,Greater London,Newham,UKI1,Inner London,London Overground,484632,56,0
+4893,WOF,Worcester Foregate Street,WR1 1DB,West Midlands,Worcestershire,Worcester,UKG1,Herefordshire Worcestershire and Warwickshire,London Midland Trains,1791728,10,154974
+3390,WOR,Worle,BS22 6WA,South West,North Somerset,North Somerset,UKK1,Gloucestershire Wiltshire and North Somerset,First Great Western,241478,12,0
+7326,WRT,Worstead,NR28 9RX,East,Norfolk,North Norfolk,UKH1,East Anglia,National Express East Anglia,21908,16,0
+1138,WYL,Wylde Green,B73 5LA,West Midlands,West Midlands,Birmingham,UKG3,West Midlands,London Midland Trains,488020,11,0
+7383,WMD,Wymondham,NR18 0JZ,East,Norfolk,South Norfolk,UKH1,East Anglia,National Express East Anglia,156624,13,0
+4532,WYT,Wythall,B47 6BY,West Midlands,Worcestershire,Bromsgrove,UKG1,Herefordshire Worcestershire and Warwickshire,London Midland Trains,53468,11,0

@@ -1,0 +1,118 @@
+﻿<UserControl
+    x:Class="DissertationControls.Heatmap"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:DissertationControls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Loaded="Heatmap_Loaded">
+    
+    <UserControl.Resources>
+        <Style x:Key="ListViewItemStyle" TargetType="ListViewItem">
+            <Setter Property="FontFamily" Value="{ThemeResource ContentControlThemeFontFamily}"/>
+            <Setter Property="FontSize" Value="{ThemeResource ControlContentThemeFontSize}"/>
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="TabNavigation" Value="Local"/>
+            <Setter Property="IsHoldingEnabled" Value="True"/>
+            <Setter Property="Margin" Value="0,0,18,2"/>
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="ListViewItem">
+                        <ListViewItemPresenter CheckHintBrush="{ThemeResource ListViewItemCheckHintThemeBrush}" 
+                                               CheckBrush="{ThemeResource ListViewItemCheckThemeBrush}" 
+                                               ContentMargin="0" 
+                                               ContentTransitions="{TemplateBinding ContentTransitions}" 
+                                               CheckSelectingBrush="{ThemeResource ListViewItemCheckSelectingThemeBrush}" 
+                                               DragForeground="{ThemeResource ListViewItemDragForegroundThemeBrush}" 
+                                               DragOpacity="{ThemeResource ListViewItemDragThemeOpacity}" 
+                                               DragBackground="{ThemeResource ListViewItemDragBackgroundThemeBrush}" 
+                                               DisabledOpacity="{ThemeResource ListViewItemDisabledThemeOpacity}" 
+                                               FocusBorderBrush="{ThemeResource ListViewItemFocusBorderThemeBrush}" 
+                                               HorizontalContentAlignment="{TemplateBinding HorizontalContentAlignment}" 
+                                               Padding="{TemplateBinding Padding}" 
+                                               PointerOverBackgroundMargin="0" 
+                                               PlaceholderBackground="{ThemeResource ListViewItemPlaceholderBackgroundThemeBrush}" 
+                                               PointerOverBackground="{ThemeResource ListViewItemPointerOverBackgroundThemeBrush}" 
+                                               ReorderHintOffset="{ThemeResource ListViewItemReorderHintThemeOffset}" 
+                                               SelectedPointerOverBorderBrush="{ThemeResource ListViewItemSelectedPointerOverBorderThemeBrush}" 
+                                               SelectedForeground="{ThemeResource ListViewItemSelectedForegroundThemeBrush}" 
+                                               SelectedPointerOverBackground="{ThemeResource ListViewItemSelectedPointerOverBackgroundThemeBrush}" 
+                                               SelectedBorderThickness="1" 
+                                               SelectedBackground="{ThemeResource ListViewItemSelectedBackgroundThemeBrush}" 
+                                               VerticalContentAlignment="{TemplateBinding VerticalContentAlignment}" 
+                                               Margin="0" 
+                                               UseLayoutRounding="True" 
+                                               RenderTransformOrigin="0.5,0.5"/>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </UserControl.Resources>
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="40" />
+        </Grid.RowDefinitions>
+        
+        <ListView x:Name="columnHeadingsListView" CanReorderItems="True" AllowDrop="True"
+                  ItemContainerStyle="{StaticResource ListViewItemStyle}">
+            <ListView.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <StackPanel Orientation="Horizontal" Margin="0"></StackPanel>
+                </ItemsPanelTemplate>
+            </ListView.ItemsPanel>
+        </ListView>
+
+        <ListView x:Name="dataListView" Grid.Row="1" CanReorderItems="True" AllowDrop="True"
+                  ItemContainerStyle="{StaticResource ListViewItemStyle}"
+                  SelectionMode="Multiple" SelectionChanged="dataListView_SelectionChanged" />
+        
+        <!-- interactive controls -->
+        <StackPanel Orientation="Horizontal" Grid.Row="2">
+            <Button x:Name="filterButton" Click="filterButton_Click" IsEnabled="False">Hide Selection</Button>
+            <Button x:Name="resetFilterButton" Click="resetFilterButton_Click" IsEnabled="False">Show All</Button>
+            
+            <TextBlock x:Name="numDataClassesTextBlock" Text="Number of data classes" FontFamily="Segoe UI" 
+                       FontSize="20" VerticalAlignment="Center" Margin="5 0 10 0" />
+            <ComboBox x:Name="numDataClassesComboBox">
+                <ComboBoxItem>3</ComboBoxItem>
+                <ComboBoxItem>4</ComboBoxItem>
+                <ComboBoxItem>5</ComboBoxItem>
+                <ComboBoxItem>6</ComboBoxItem>
+                <ComboBoxItem>7</ComboBoxItem>
+                <ComboBoxItem>8</ComboBoxItem>
+                <ComboBoxItem IsSelected="True">9</ComboBoxItem>
+                <ComboBoxItem x:Name="tenDataClassOption" IsEnabled="False">10</ComboBoxItem>
+                <ComboBoxItem x:Name="elevenDataClassOption" IsEnabled="False">11</ComboBoxItem>
+            </ComboBox>
+
+            <TextBlock x:Name="colourSchemeTypeTextBlock" Text="Colour scheme type" FontFamily="Segoe UI" FontSize="20" 
+                       VerticalAlignment="Center" Margin="5 0 10 0" />
+            <ComboBox x:Name="colourSchemeTypeComboBox">
+                <ComboBoxItem IsSelected="True">Sequential single hue</ComboBoxItem>
+                <ComboBoxItem>Sequential multi hue</ComboBoxItem>
+                <ComboBoxItem>Diverging</ComboBoxItem>
+            </ComboBox>
+
+            <TextBlock Text="Colour scheme" FontFamily="Segoe UI" FontSize="20" VerticalAlignment="Center" Margin="5 0 10 0" />
+            <ComboBox x:Name="colourSchemeComboBox" ItemsSource="{Binding}">
+                <!-- prevent scroll bar overlapping content (http://msdn.microsoft.com/en-us/library/windows/apps/hh780629.aspx) -->
+                <ComboBox.ItemContainerStyle>
+                    <Style TargetType="ComboBoxItem">
+                        <Setter Property="Padding" Value="8 10 27 10" />
+                    </Style>
+                </ComboBox.ItemContainerStyle>
+            </ComboBox>
+
+            <SearchBox FocusOnKeyboardInput="True" QuerySubmitted="SearchBox_QuerySubmitted" Margin="5 0 10 0" Width="200"
+                       ChooseSuggestionOnEnter="False" SearchHistoryEnabled="True" PlaceholderText="Search..." />
+
+        </StackPanel>
+
+    </Grid>
+</UserControl>

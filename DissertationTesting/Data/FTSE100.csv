@@ -1,0 +1,102 @@
+Code,Name,Price,Performance,Sector
+ABF,A.B.FOOD,2847.00,-0.42,Food Producers
+ADN,ABDN.ASSET.MAN.,419.8,2.94,Financial Services
+ADM,ADMIRAL GRP,1418.00,-1.12,Nonlife Insurance
+AGK,AGGREKO,1565.00,0.13,Support Services
+AMEC,AMEC,1042.00,-0.76,Oil Equipment & Services
+AAL,ANGLO AMERICAN,1480.00,1.4,Mining
+ANTO,ANTOFAGASTA,894,2.11,Mining
+ARM,ARM HLDGS.,896,-0.5,Technology Hardware & Equipment
+AHT,ASHTEAD GRP.,813,1.94,Support Services
+AZN,ASTRAZENECA,3860.00,1.17,Pharmaceuticals & Biotechnology
+AV.,AVIVA,456.3,0.68,Life Insurance
+BAB,BABCOCK INTL,1367.00,-0.73,Support Services
+BA.,BAE SYS.,429.1,0.66,Aerospace & Defence
+BARC,BARCLAYS,271.7,0.65,Banks
+BG.,BG GRP.,1053.00,-3.08,Oil & Gas Producers
+BLT,BHP BILLITON,1805.00,1.26,Mining
+BP.,BP,481.7,-0.09,Oil & Gas Producers
+BATS,BR.AMER.TOB.,2925.00,-0.1,Tobacco
+BLND,BR.LAND,668,1.29,Real Estate Investment Trusts
+BSY,BSKYB,893.5,0,Media
+BT.A,BT GROUP,392,0.82,Telecommunications
+BNZL,BUNZL,1388.00,0.73,Support Services
+BRBY,BURBERRY GRP,1474.00,-0.67,Personal Goods
+CPI,CAPITA GROUP,995.5,-0.45,Support Services
+CCL,CARNIVAL,2527.00,-0.32,Travel & Leisure
+CNA,CENTRICA,314.2,0.38,Utilities
+CCH,COCACOLA HBC AG,1605.00,-0.37,Beverages
+CPG,COMPASS GROUP,892,-1.05,Travel & Leisure
+CRH,CRH,1638.00,2.5,Construction & Materials
+DGE,DIAGEO,1818.00,-0.11,Beverages
+EZJ,EASYJET,1728.00,1.47,Travel & Leisure
+EXPN,EXPERIAN,1075.00,1.13,Support Services
+FRES,FRESNILLO,792.5,1.28,Mining
+GFS,G4S,235.1,-0.21,Support Services
+GKN,GKN,403.4,1.13,Automobiles & Parts
+GSK,GLAXOSMITHKLINE,1612.50,0.91,Pharmaceuticals & Biotechnology
+GLEN,GLENCORE XSTRA,325.4,0.9,Mining
+HMSO,HAMMERSON,533.5,1.33,Real Estate Investment Trusts
+HL.,HARGREAVES LANS,1353.00,-1.31,Financial Services
+HSBA,HSBC HLDGS.UK,627.8,-0.05,Banks
+IMI,IMI,1480.00,0.48,Industrial Engineering
+IMT,IMP.TOBACCO GRP,2214.00,0.64,Tobacco
+IHG,INTERCON. HOTEL,1943.00,-0.56,Travel & Leisure
+ITRK,INTERTEK GROUP,2898.00,1.54,Support Services
+IAG,INTL CONSOL AIR,428.3,1.37,Travel & Leisure
+ITV,ITV,202,0.1,Media
+JMAT,JOHNSON MATTHEY,3180.00,-1.09,Chemicals
+KGF,KINGFISHER,362.8,1.34,General Retailers
+LAND,LAND SECS.,1034.00,1.08,Real Estate Investment Trusts
+LGEN,LEGAL&GEN.,221.2,0.82,Life Insurance
+LLOY,LLOYDS GRP.,81.8,-1.04,Banks
+LSE,LON.STK.EXCH,1928.00,2.94,Financial Services
+MKS,MARKS & SP.,472.5,-0.04,General Retailers
+MGGT,MEGGITT,517.5,2.58,Aerospace & Defence
+MRO,MELROSE IND,295,-1.01,Industrial Engineering
+MNDI,MONDI,960.5,1.53,Forestry & Paper
+MRW,MORRISON (WM),237.9,0.17,Food & Drug Retailers
+NG.,NATIONAL GRID,792,0.44,Utilities
+NXT,NEXT,6305.00,0.16,General Retailers
+OML,OLD MUTUAL,177.1,0.8,Life Insurance
+PSON,PEARSON,1094.00,0.74,Media
+PSN,PERSIMMON,1385.00,3.36,Household Goods & Home Construction
+PFC,PETROFAC,1195.00,-0.25,Oil Equipment & Services
+PRU,PRUDENTIAL,1276.00,0.79,Life Insurance
+RRS,RANDGOLD RES.,4424.00,2.03,Mining
+RDSA,RDS 'A',2101.00,-0.14,Oil & Gas Producers
+RDSB,RDS 'B',2223.00,-0.02,Oil & Gas Producers
+RB.,RECKITT BEN. GP,4783.00,-0.6,Household Goods & Home Construction
+REL,REED ELSEVIER,887,0.06,Media
+RSL,RESOLUTION,358.5,0.17,Life Insurance
+REX,REXAM,503.5,0.94,General Industrials
+RIO,RIO TINTO,3407.00,2.05,Mining
+RR.,ROLLS-ROYCE HLG,1177.00,-0.25,Aerospace & Defence
+RBS,ROYAL BANK SCOT,337.5,0.21,Banks
+RMG,ROYAL MAIL,589,0.6,Industrial Transportation
+RSA,RSA INS.,104.2,0.87,Nonlife Insurance
+SAB,SABMILLER,2739.00,0.81,Beverages
+SGE,SAGE GRP.,416,0.75,Software & Computer Services
+SBRY,SAINSBURY(J),351.1,-0.71,Food & Drug Retailers
+SDR,SCHRODERS,2524.00,1.49,Financial Services
+SVT,SEVERN TRENT,1763.00,-0.28,Utilities
+SHP,SHIRE,3122.00,-0.6,Pharmaceuticals & Biotechnology
+SN.,SMITH&NEPHEW,915,2.12,Health Care Equipment
+SMIN,SMITHS GROUP,1403.00,0.57,General Industrials
+SPD,SPORTSDIRECT,691,-1.5,General Retailers
+SSE,SSE,1357.00,0.67,Electricity
+STAN,STAND.CHART.,1240.00,-1.23,Banks
+SL.,STD LIFE,377.3,0.53,Life Insurance
+TATE,TATE & LYLE,774.5,1.77,Food Producers
+TSCO,TESCO,320.9,-0.77,Food & Drug Retailers
+TPK,TRAVIS PERKINS,1846.00,1.15,Support Services
+TT.,TUI TRAVEL,433.5,2.29,Travel & Leisure
+TLW,TULLOW OIL,836.5,-3.01,Oil & Gas Producers
+ULVR,UNILEVER,2363.00,0.6,Food Producers
+UU.,UTD. UTILITIES,733,1.03,Utilities
+VOD,VODAFONE GRP.,222,-0.85,Mobile Telecommunications
+WEIR,WEIR GRP.,2200.00,1.29,Industrial Engineering
+WTB,WHITBREAD,3935.00,3.09,Travel & Leisure
+WMH,WILLIAM HILL,347,0.41,Travel & Leisure
+WOS,WOLSELEY,3342.00,1.46,Support Services
+WPP,WPP,1302.00,0.15,Media

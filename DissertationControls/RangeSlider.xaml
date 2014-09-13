@@ -1,0 +1,59 @@
+﻿<UserControl
+    x:Class="DissertationControls.RangeSlider"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:DissertationControls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    x:Name="rangeSliderRoot"
+    Loaded="RangeSlider_Loaded">
+    
+    <Grid>
+        <Grid x:Name="root" Background="Transparent">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+
+            <Rectangle x:Name="UpperVerticalTrackRect"
+                       Grid.Row="0"
+                       Fill="Red"
+                       Margin="1 0"
+                       Opacity="0.25" />
+
+            <Thumb x:Name="UpperThumb"
+                   Grid.Row="1"
+                   DataContext="{Binding UpperValue}"
+                   Height="15"
+                   Opacity="0.25"
+                   DragDelta="UpperThumb_DragDelta"
+                   DragCompleted="UpperThumb_DragCompleted"
+                   ToolTipService.ToolTip="{Binding ElementName=rangeSliderRoot, Path=UpperValue}" />
+
+            <Rectangle x:Name="RangeTrackRect"
+                       Grid.Row="2"
+                       Fill="Green"
+                       Margin="1 0"
+                       Opacity="0.25" />
+
+            <Thumb x:Name="LowerThumb"
+                   Grid.Row="3"
+                   DataContext="{Binding LowerValue}"
+                   Height="15"
+                   Opacity="0.25"
+                   DragDelta="LowerThumb_DragDelta" 
+                   DragCompleted="LowerThumb_DragCompleted"
+                   ToolTipService.ToolTip="{Binding ElementName=rangeSliderRoot, Path=LowerValue}" />
+
+            <Rectangle x:Name="LowerVerticalTrackRect"
+                       Grid.Row="4"
+                       Fill="Red"
+                       Margin="1 0"
+                       Opacity="0.25" />
+        </Grid>
+    </Grid>
+</UserControl>

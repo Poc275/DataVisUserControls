@@ -1,0 +1,254 @@
+Code,Name,Price,Performance,Sector
+PNL,PERSONAL ASSETS,32360.00,0.5,Equity Investment Instruments
+DJAN,DAEJAN HLDGS,5050.00,0.5,Real Estate Investment & Services
+SPX,SPIRAX-SARCO,2907.00,1.64,Industrial Engineering
+DCC,DCC,2785.00,-0.29,Support Services
+RMV,RIGHTMOVE,2717.00,-2.16,Media
+DLN,DERWENT LONDON,2675.00,0.34,Real Estate Investment Trusts
+ROR,ROTORK,2674.00,4.21,Industrial Engineering
+BKG,BERKELEY GP.HLD,2614.00,0.5,Household Goods & Home Construction
+CRDA,CRODA INTL.,2508.00,1.21,Chemicals
+ELTA,ELECTRA PRIVATE,2438.00,0.54,Equity Investment Instruments
+SXS,SPECTRIS,2340.00,0.09,Electronic Equipment
+FDSA,FIDESSA GROUP,2320.00,-0.34,Software & Computer Services
+BGEO,BANK OF GEORGIA,2166.00,-0.82,Banks
+TED,TED BAKER,2164.00,0.93,Personal Goods
+AVV,AVEVA GRP,2097.00,1.85,Software & Computer Services
+GOG,GO-AHEAD GROUP,2068.00,2.12,Travel & Leisure
+BHMG,BH MACRO GBP,1985.00,-0.3,Equity Investment Instruments
+CLDN,CALEDONIA INV.,1945.00,0,Equity Investment Instruments
+VCT,VICTREX,1945.00,1.25,Chemicals
+ULE,ULTRA ELEC.,1939.00,0.1,Aerospace & Defence
+RSW,RENISHAW,1900.00,1.01,Electronic Equipment
+KIE,KIER GROUP,1832.00,-0.65,Construction & Materials
+TEP,TELECOM PLUS,1811.00,-0.06,Telecommunications
+PFG,PROVIDENT FIN.,1734.00,1.46,Financial Services
+RAT,RATHBONE BROS,1712.00,1.06,Financial Services
+SGP,SUPERGROUP,1620.00,-0.61,Personal Goods
+BWY,BELLWAY,1606.00,0.19,Household Goods & Home Construction
+MRC,MERCANTILE,1600.00,0.63,Equity Investment Instruments
+OXIG,OXFORD INSTRMNT,1543.00,1.05,Electronic Equipment
+FEV,FID.EURO.VAL.,1517.00,-0.2,Equity Investment Instruments
+DTY,DIGNITY,1500.00,0.74,General Retailers
+ATK,ATKINS(WS),1423.00,0.92,Support Services
+CBG,CLOSE BR.GRP.,1416.00,0.64,Financial Services
+JD.,JD SPORTS,1407.00,-1.95,General Retailers
+FSJ,FISHER(J)& SONS,1392.00,0,Industrial Transportation
+ERM,EUROMONEY INST.,1337.00,3.89,Media
+SYR,SYNERGY HLTH.,1330.00,1.22,Health Care Equipment
+HIK,HIKMA,1303.00,4.74,Pharmaceuticals & Biotechnology
+CWK,CRANSWICK,1300.00,-0.76,Food Producers
+WWH,WORLDWIDE HC,1300.00,-0.23,Equity Investment Instruments
+RCP,RIT CAPITAL,1285.00,0.55,Equity Investment Instruments
+TMPL,TEMPLE BAR,1248.00,0.32,Equity Investment Instruments
+KLR,KELLER GRP.,1227.00,0.25,Construction & Materials
+GNS,GENUS,1216.00,-0.25,Pharmaceuticals & Biotechnology
+BHGG,BH GLOBAL (GBP),1171.00,0.09,Equity Investment Instruments
+JAM,JPMOR.AMER.,1160.00,0.09,Equity Investment Instruments
+ASL,ABERFTH.SMLL.CO,1149.00,1.23,Equity Investment Instruments
+GFRD,GALLIFORD TRY,1147.00,0.17,Construction & Materials
+PAY,PAYPOINT,1130.00,0,Support Services
+SMT,SCOTTISH MORT,1089.00,1.02,Equity Investment Instruments
+BET,BETFAIR GRP,1073.00,-1.11,Travel & Leisure
+XAR,XAAR,1073.00,0.66,Electronic Equipment
+SMWH,WH SMITH,1071.00,1.04,General Retailers
+JLT,JARDINE LLOYD,1059.00,0.19,Nonlife Insurance
+MYI,MURRAY INTL.TST,981.50,0.26,Equity Investment Instruments
+BRSN,BERENDSEN,967.00,1.04,Support Services
+VED,VEDANTA,925.00,0.98,Mining
+RSE,RIVERSTONE,910.00,-2.15,Equity Investment Instruments
+DNLM,DUNELM,905.00,-0.98,General Retailers
+GNK,GREENE KING,872.50,-0.4,Travel & Leisure
+BVS,BOVIS HOMES,864.50,0.52,Household Goods & Home Construction
+ESNT,ESSENTRA,859.50,0.94,Support Services
+ANH,AL NOOR HOSP.,840.00,0.06,Health Care Equipment
+JDW,WETHERSPOON(JD),820.00,-0.06,Travel & Leisure
+HTG,HUNTING,808.50,1.13,Oil Equipment & Services
+DNO,DOMINO PRINT.,795.00,-1.24,Electronic Equipment
+DRX,DRAX,795.00,1.21,Electricity
+STJ,ST.JAMES'S PLAC,792.50,0.06,Life Insurance
+DLAR,DE LA RUE,778.50,0.45,Support Services
+MUT,MURRAY INC.TST.,763.00,0.86,Equity Investment Instruments
+MCRO,MICRO FOCUS,758.00,1.34,Software & Computer Services
+DPLM,DIPLOMA,747.00,6.71,Support Services
+PTEC,PLAYTECH,734.50,0.62,Travel & Leisure
+PHNX,PHOENIX GRP(DI),733.00,-0.27,Life Insurance
+LRE,LANCASHIRE,730.00,1.11,Nonlife Insurance
+HRI,HERALD INV.,729.00,0.55,Equity Investment Instruments
+BVIC,BRITVIC,723.50,-1.36,Beverages
+PNN,PENNON GROUP,699.00,1.67,Utilities
+ISAT,INMARSAT,698.00,0.07,Mobile Telecommunications
+BOY,BODYCOTE,694.00,1.98,Industrial Engineering
+UBM,UBM,694.00,-0.29,Media
+KENZ,KENTZ,688.00,1.78,Oil Equipment & Services
+CSR,CSR,682.50,0.37,Technology Hardware & Equipment
+DPH,DECHRA PHARM,679.00,-0.44,Pharmaceuticals & Biotechnology
+WTAN,WITAN INV TST,676.00,0.6,Equity Investment Instruments
+WG.,WOOD GRP(J),671.00,-0.07,Oil Equipment & Services
+HSX,HISCOX,666.00,0.3,Nonlife Insurance
+POLY,POLYMETAL INT,657.50,3.3,Mining
+CCC,COMPUTACENTER,657.00,1.15,Software & Computer Services
+TCY,TELECITY,645.00,0.62,Software & Computer Services
+SHB,SHAFTESBURY,640.00,-1.08,Real Estate Investment Trusts
+GPOR,GR.PORTLAND,631.50,0,Real Estate Investment Trusts
+SVS,SAVILLS,630.00,0,Real Estate Investment & Services
+RTN,RESTAURANT GP,625.00,0,Travel & Leisure
+IGG,IG GROUP,623.00,0.16,Financial Services
+BAG,BARR (A.G.),613.00,0.57,Beverages
+GFTU,GRAFTON GRP.UTS,610.00,-0.97,Support Services
+RPC,RPC GRP.,609.50,0.74,General Industrials
+EDIN,EDIN.INV.TST.,604.00,0.25,Equity Investment Instruments
+BTG,BTG,603.00,0.33,Pharmaceuticals & Biotechnology
+CWD,COUNTRYWIDE,602.50,1.26,Real Estate Investment & Services
+INCH,INCHCAPE,601.50,0.5,General Retailers
+SCIN,SCOT.INV.TST.,599.00,-0.17,Equity Investment Instruments
+MLC,MILLENNIUM &COP,582.50,0.26,Travel & Leisure
+HLMA,HALMA,580.00,0.35,Electronic Equipment
+OCDO,OCADO,580.00,-0.26,Food & Drug Retailers
+BWNG,BROWN(N.) GRP.,574.50,1.5,General Retailers
+BNKR,BANKERS INV.TST,572.50,1.15,Equity Investment Instruments
+IRV,INTERSERVE,570.00,-0.52,Support Services
+NTG,NORTHGATE,570.00,0,Support Services
+WKP,WORKSPACE GRP.,553.00,0.55,Real Estate Investment Trusts
+CGL,CATLIN GRP,550.50,-2.13,Nonlife Insurance
+LWDB,LAW.DEB.CORP,548.50,0.09,Equity Investment Instruments
+INF,INFORMA,530.50,0.47,Media
+DOM,DOMINO'S PIZZA,521.00,0.19,Travel & Leisure
+BYG,BIG YELLOW GRP,517.00,-0.77,Real Estate Investment Trusts
+DCG,DAIRY CREST,513.00,0.49,Food Producers
+JMG,JPMORGAN EMERG,512.50,1.49,Equity Investment Instruments
+BRWM,BLACKROCK WLD,511.00,0.2,Equity Investment Instruments
+TEM,TEMPLETON EMRG.,510.50,1.39,Equity Investment Instruments
+MRCH,MERCHANTS TST,506.00,1,Equity Investment Instruments
+GSS,GENESIS E.M.F.,494.50,1.46,Equity Investment Instruments
+IPF,INTER. PERS.,494.00,1.77,Financial Services
+PCT,POLAR CAP.,490.00,1.14,Equity Investment Instruments
+BTEM,BR.EMPIRE SEC.,479.00,-0.19,Equity Investment Instruments
+MPI,MICHAEL PAGE,475.50,1.43,Support Services
+NMC,NMC HEALTH,471.00,-0.28,Health Care Equipment
+VSVS,VESUVIUS,462.20,0.48,General Industrials
+MAB,MITCHELLS & BUT,461.00,-0.02,Travel & Leisure
+HFD,HALFORDS,446.40,-0.11,General Retailers
+ATST,ALLIANCE TRUST,445.40,-0.02,Equity Investment Instruments
+UTG,UNITE GROUP,439.00,0.69,Real Estate Investment & Services
+SVI,SVG CAP.,432.00,0.54,Financial Services
+SIA,SOCO INTL.,429.40,-1.06,Oil & Gas Producers
+ICP,INT.CAP.GRP,428.40,1.13,Financial Services
+AML,AMLIN,427.00,0.23,Nonlife Insurance
+INVP,INVESTEC,425.90,1.24,Financial Services
+FENR,FENNER,421.80,2.38,Industrial Engineering
+IAP,ICAP,415.80,-0.02,Financial Services
+BDEV,BARRATT DEVEL.,408.80,0.64,Household Goods & Home Construction
+PIC,PACE,400.60,0.81,Technology Hardware & Equipment
+III,3I GRP.,399.80,-0.32,Financial Services
+SRP,SERCO GRP.,399.70,1.14,Support Services
+MNKS,MONKS INV.TST.,396.50,0.15,Equity Investment Instruments
+AZEM,AZ ELECTRO.,394.50,-0.1,Chemicals
+SMP,ST.MODWEN PROP.,393.50,-0.38,Real Estate Investment & Services
+JUP,JUPITER FND,386.30,-0.26,Financial Services
+PLI,PERPTL.I&G.INV.,383.10,0.29,Equity Investment Instruments
+CAPC,CAP & COUNT,381.00,0.79,Real Estate Investment & Services
+CRST,CREST NICHOLSON,377.70,-0.81,Household Goods & Home Construction
+CTY,CITY LON.,376.00,0.64,Equity Investment Instruments
+FRCL,FOR.&COL.IV.TST,376.00,0.13,Equity Investment Instruments
+PZC,PZ CUSSONS,374.50,0.08,Personal Goods
+SGC,STAGECOACH,369.10,-0.24,Travel & Leisure
+HWDN,HOWDEN JOINERY,365.00,-0.03,Support Services
+PAG,PARAGON GRP.,364.80,0.88,Financial Services
+FOXT,FOXTONS,364.20,0.52,Real Estate Investment & Services
+MERL,MERLIN,363.50,0.55,Travel & Leisure
+CLLN,CARILLION,363.00,2.05,Support Services
+SGRO,SEGRO,355.20,-0.03,Real Estate Investment Trusts
+SMDS,SMITH(DS),349.90,1.13,General Industrials
+ASHM,ASHMORE,343.90,1.54,Financial Services
+UDG,UDG HEALTHCARE,342.00,0.44,Food & Drug Retailers
+TLPR,TULLETT PREBON,339.80,1.13,Financial Services
+ETO,ENT. ONE DI,332.00,-0.6,Media
+MTO,MITIE GRP.,329.50,1.01,Support Services
+HSV,HOMESERVE,329.40,-1.47,Support Services
+RDW,REDROW,328.90,0.43,Household Goods & Home Construction
+ALNT,ALENT,327.70,1.39,Chemicals
+LMI,LONMIN,327.40,0.68,Mining
+PA.,PARTNERSHIP,324.70,-0.09,Life Insurance
+BRW,BREWIN DOLPHIN,320.00,0.47,Financial Services
+MGAM,MORGAN ADVANCED,320.00,1.11,Electronic Equipment
+BBA,BBA AVIATION,317.60,0.41,Industrial Transportation
+RPS,RPS GRP.,316.50,1.22,Support Services
+LRD,LAIRD,316.10,1.93,Technology Hardware & Equipment
+INTU,INTU PROPERTIES,315.90,-0.22,Real Estate Investment Trusts
+DVO,DEVRO,311.70,0.06,Food Producers
+TALK,TALKTALK,311.50,0.1,Telecommunications
+BBY,BALFOUR B.,309.00,0.52,Construction & Materials
+HTY,HELLERMANNTYTON,302.90,0.63,Electronic Equipment
+OPHR,OPHIR ENERGY,300.60,0.3,Oil & Gas Producers
+CPW,CARPHONE,299.90,1.18,General Retailers
+COB,COBHAM,298.40,-0.37,Aerospace & Defence
+SNR,SENIOR,292.00,0.48,Aerospace & Defence
+NEX,NAT.EXPRESS,289.60,1.44,Travel & Leisure
+PMO,PREMIER OIL,286.20,-0.17,Oil & Gas Producers
+SYNT,SYNTHOMER,278.20,0.14,Chemicals
+ITE,ITE GRP.,277.70,1.35,Media
+ESUR,ESURE,276.10,-0.07,Nonlife Insurance
+ABG,AFRICAN BARR,273.20,0.11,Mining
+ELM,ELEMENTIS,273.10,1.11,Chemicals
+BEZ,BEAZLEY,268.50,0.94,Nonlife Insurance
+ECM,ELECTROCOMPS.,259.90,2,Support Services
+DLG,DIRECT LINE,258.30,0.39,Nonlife Insurance
+GNC,GREENCORE GRP.,244.90,-0.49,Food Producers
+EFM,EDIN.DRGN.TST.,237.00,0.47,Equity Investment Instruments
+TRY,TR PROP.INV.TST,237.00,0.42,Equity Investment Instruments
+HGG,HENDERSON GRP,234.70,0.43,Financial Services
+GRI,GRAINGER,234.20,0.56,Real Estate Investment & Services
+KAZ,KAZAKHMYS,233.90,13.38,Mining
+QQ.,QINETIQ,219.40,0.09,Aerospace & Defence
+PER,PERFORM,216.00,-0.37,Media
+RGU,REGUS,215.60,1.03,Support Services
+PFL,PREMIER FARNELL,215.20,1.89,Support Services
+SHI,SIG,203.50,1.24,Support Services
+IPO,IP GROUP,198.20,0.87,Financial Services
+CNE,CAIRN ENERGY,191.10,-0.57,Oil & Gas Producers
+HOME,HOME RETAIL,182.00,-2.67,General Retailers
+TCG,THOMAS COOK,181.70,-0.98,Travel & Leisure
+IMG,IMAGINTN.TECH,179.00,1.42,Technology Hardware & Equipment
+MONY,MONEYSUP.,174.50,1.28,Media
+BABS,BLUECREST GBP,174.20,0.23,Equity Investment Instruments
+FXPO,FERREXPO,170.10,0.95,Industrial Metals
+BOK,BOOKER,163.20,0.8,Food & Drug Retailers
+ETI,ENT.INNS,151.00,-1.82,Travel & Leisure
+PDL,PETRA DIAMONDS,149.90,1.28,Mining
+MARS,MARSTON'S,149.80,0.07,Travel & Leisure
+LAD,LADBROKES,149.70,2.75,Travel & Leisure
+AFR,AFREN,147.90,-0.87,Oil & Gas Producers
+888,888 HLDGS,145.50,1.11,Travel & Leisure
+RNK,RANK GRP.,144.80,0.84,Travel & Leisure
+LMP,LONDONMETRIC,140.50,0.36,Real Estate Investment Trusts
+ENQ,ENQUEST,138.70,0.65,Oil & Gas Producers
+HICL,HICL INF.,138.50,1.09,Equity Investment Instruments
+HAS,HAYS,135.00,0.82,Support Services
+FGP,FIRSTGROUP,134.80,0.97,Travel & Leisure
+3IN,3I INF. ORD,133.30,0.08,Equity Investment Instruments
+COLT,COLT GRP S.A.,127.90,-0.31,Telecommunications
+INPP,INTL PUBLIC,126.90,0.32,Equity Investment Instruments
+FCAM,F&C ASSET MAN,124.90,0,Financial Services
+RTO,RENTOKIL INITL.,124.50,0.89,Support Services
+FCPT,F&C COMM PRP,121.60,2.27,Real Estate Investment & Services
+TW.,TAYLOR WIMPEY,121.30,0.66,Household Goods & Home Construction
+JLIF,JOHN LAING INF,117.20,0.51,Equity Investment Instruments
+HSTN,HANSTEEN HLDGS,113.00,-0.26,Real Estate Investment Trusts
+BPTY,BWIN.PARTY,110.30,-1.61,Travel & Leisure
+FCSS,FIDELITY CHINA,105.80,1.15,Equity Investment Instruments
+SPT,SPIRENT,102.00,1.19,Technology Hardware & Equipment
+NBLS,NB GLOBAL,101.50,0,Equity Investment Instruments
+KCOM,KCOM GRP,100.50,0.9,Telecommunications
+EVR,EVRAZ,85.50,2.03,Industrial Metals
+EMG,MAN GROUP,82.55,0.36,Financial Services
+UKCM,UK COMM PROP,79.00,0.64,Real Estate Investment & Services
+DEB,DEBENHAMS,74.40,-2.04,General Retailers
+ESSR,ESSAR ENERGY,66.00,10,Oil & Gas Producers
+CWC,CABLE&WIRE COM,54.45,-0.09,Telecommunications
+CEY,CENTAMIN,51.65,2.79,Mining
+DXNS,DIXONS RETAIL,47.03,0.04,General Retailers
+BHME,BH MACRO EUR,19.24,0.58,Equity Investment Instruments
+BHMU,BH MACRO USD,18.85,0.16,Equity Investment Instruments
+KMR,KENMARE RES.,16.90,5.96,Mining
+BHGU,BH GLOBAL (USD),11.46,-0.78,Equity Investment Instruments

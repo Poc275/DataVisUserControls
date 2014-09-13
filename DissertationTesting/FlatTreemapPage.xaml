@@ -1,0 +1,30 @@
+﻿<Page
+    x:Class="DissertationTesting.FlatTreemapPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:DissertationTesting"
+    xmlns:DissertationControls="using:DissertationControls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Button x:Name="backButton" Click="backButton_Click" Content="Back" />
+            <TextBlock x:Name="pageTitle" Grid.Column="1" FontFamily="Segoe UI" FontSize="20" VerticalAlignment="Center" 
+                       HorizontalAlignment="Center" />
+        </Grid>
+        
+        <DissertationControls:FlatTreemap x:Name="treemap" Grid.Row="1" />
+    </Grid>
+</Page>
